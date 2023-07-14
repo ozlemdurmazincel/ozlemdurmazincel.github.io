@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, Yeditepe University, 2002
+* M.S. in Computer Engineering, Yeditepe University, 2005
+* Ph.D in Computer Science, University of Twente, 2009
 
 Work experience
 ======
