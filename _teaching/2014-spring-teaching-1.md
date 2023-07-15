@@ -1,5 +1,5 @@
 ---
-title: "Data Structures and Algorithms
+title: "Data Structures and Algorithms"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
