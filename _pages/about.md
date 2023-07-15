@@ -8,21 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-
-
-
 About
 ======
-I am an Associate Professor at the [Department of Computer Engineering (CMPE)] (https://cmpe.boun.edu.tr/) at Bogazici University.
+I am an Associate Professor at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University.
 
-My objective is to utilize sensing technologies available on Internet of things (IoT) and mobile and wearable devices, to design and build context-aware and intelligent systems that ease people's lives and improve their well-being. My research interests are on applied machine learning, human activity and wellbeing recognition, edge AI in the fields of wearable and ubiquitous computing, Internet of things, and protocol design for resource efficiency in Wireless Networks. 
+My objective is to utilize sensing technologies available on the Internet of Things (IoT) and mobile and wearable devices, to design and build context-aware and intelligent systems that ease people's lives and improve their well-being. My research interests are on applied machine learning, human activity and wellbeing recognition, edge AI in the fields of wearable and ubiquitous computing, the Internet of things, and protocol design for resource efficiency in Wireless Networks. 
 
 News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- (July 15, 2023) Our new paper with Sevda Ozge Bursa and Gulfem Alptekin is available online: [Building Lightweight Deep Learning Models with TensorFlow Lite for Human Activity Recognition on Mobile Devices](https://link.springer.com/article/10.1007/s12243-023-00962-x)
+- (July 1, 2023) I will be participating in the [Future Computing for Digital Infrastructures Workshop](https://www.lorentzcenter.nl/future-computing-for-digital-infrastructures.html) at Lorentz Center between July 31-August 2023.
+- (June 12, 2023) Two recent journal papers with Sumeyye Agac, Sevda Özge Bursa and Gülfem Isiklar Alptekin are accepted🎉
+1. [How to use attention to improve human activity recognition and](https://doi.org/10.1016/j.compeleceng.2023.108777)
+2. [How to personalize compressed deep learning models with transfer learning for human activity recognition](https://www.mdpi.com/2075-4418/13/11/1861)
+
+   
 
