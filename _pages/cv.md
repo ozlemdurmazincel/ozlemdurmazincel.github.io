@@ -17,37 +17,30 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Associate Professor (2021-current)
+  * Bogazici University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Associate (formerly Assistant) Professor (2012-2021)
+  * Galatasaray University
+    
+* Part-time Faculty and Postdoctoral Researcher (2009-2012)
+  * Bogazici University
 
+ * Visiting Researcher (2007, 2008)
+  * University of Southern California
+        
+ * Research Assistant (2005-2009)
+  * University of Twente
+
+ * Teaching and Research Assistant (2002, 2005)
+  * Yeditepe University of 
+    
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -56,4 +49,13 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice Chair of the Computer Engineering Department, Bogazici University (02/2023, currently)
+* Head of the Software Branch of the Computer Engineering Department, Galatasaray University (GSU) (07/2017 – 11/2021)
+* Faculty Board Associate Professor Representative, GSU (07/2017 – 11/2021)
+* Member of GSU Research and Development Coordination Committee (07/2017 –11/2021)
+* Director of GSU Innovation and Entrepreneurship Centre (03/2017 – 11/2021)
+  
+      
+
+				
+
