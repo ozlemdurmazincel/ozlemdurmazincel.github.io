@@ -10,9 +10,11 @@ redirect_from:
 
 About
 ======
-I am an Associate Professor at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University.
+I am an Associate Professor at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University. I received my PhD in computer science from the [University of Twente](https://www.utwente.nl/en/), Netherlands, in March 2009. I was a member of the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group. I also visited USC's Autonomous Networks research group ([ANRG](https://anrg.usc.edu/www/)) during my PhD studies. Then, I worked as a postdoctoral researcher at Boğaziçi University between 2009-2012 and then as a faculty member at Galatasaray University between 2012-2021. 
 
-My objective is to utilize sensing technologies available on the Internet of Things (IoT) and mobile and wearable devices, to design and build context-aware and intelligent systems that ease people's lives and improve their well-being. My research interests are on applied machine learning, human activity and wellbeing recognition, edge AI in the fields of wearable and ubiquitous computing, the Internet of things, and protocol design for resource efficiency in Wireless Networks. 
+Research Interests
+==================  
+My objective is to utilize sensing technologies available on the Internet of Things (IoT) and mobile and wearable devices, to design and build context-aware and intelligent systems that ease people's lives and improve their well-being. My research interests are on applied machine learning, human activity and well-being recognition, edge AI in the fields of wearable and ubiquitous computing, the Internet of things, and protocol design for resource efficiency in Wireless Networks. 
 
 News
 ======
