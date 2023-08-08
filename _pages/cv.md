@@ -31,9 +31,7 @@ Work experience
     
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Full list of publications available at  [Google Scholar Page](https://scholar.google.com.tr/citations?user=r9h9Zp4AAAAJ)
     
 Teaching
 ======
