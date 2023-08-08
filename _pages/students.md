@@ -32,7 +32,6 @@ Completed Theses
 - Berrenur Saylam, MSc. Thesis, A Detailed Analysis of Human Activity Recognition Using Smartphone Motion Sensors, Galatasaray University (2017).
 - Selek Ceren Çelik, MSc. Thesis, Semantic Place Prediction from Mobile and Activity Data, Galatasaray University (2016).
 - Aykut Yiğitel, PhD Thesis, Green Wireless Communications, Co-advised with Prof.Dr. C. Ersoy, Bogazici University (2016).
-- Yunus Emre Üstev, MSc. Thesis, User, Device, Orientation and Position Independent Human Activity Recognition On Smartphones, Co-advised with
-- Prof. C. Ersoy, Bogazici University (2015).
+- Yunus Emre Üstev, MSc. Thesis, User, Device, Orientation and Position Independent Human Activity Recognition On Smartphones, Co-advised with Prof. C. Ersoy, Bogazici University (2015).
 - Didem Gündoğdu, MSc. Thesis: Countrywide Anomalous Incident Detection From Aggregated Mobile Phone Data, Co-advised with Assist. Prof. Albert Ali Salah, Bogazici University (2014).
 - Erman Doğan, MSc. Thesis, Efficient Feature Extraction for Human Activity Recognition on Smartphones, Co-advised with Prof. C. Ersoy, Bogazici University (2013). 
