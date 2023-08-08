@@ -17,23 +17,17 @@ Education
 
 Work experience
 ======
-* Associate Professor (2021-current)
-  * Bogazici University
+* Associate Professor (2021-current), Bogazici University, TR
 
-* Associate (formerly Assistant) Professor (2012-2021)
-  * Galatasaray University
+* Associate (formerly Assistant) Professor (2012-2021), Galatasaray University, TR
     
-* Part-time Faculty and Postdoctoral Researcher (2009-2012)
-  * Bogazici University
+* Part-time Faculty and Postdoctoral Researcher (2009-2012), Bogazici University, TR
 
- * Visiting Researcher (2007, 2008)
-  * University of Southern California
+ * Visiting Researcher (2007, 2008), University of Southern California, USA
         
- * Research Assistant (2005-2009)
-  * University of Twente
+ * Research Assistant (2005-2009), University of Twente, NL
 
- * Teaching and Research Assistant (2002, 2005)
-  * Yeditepe University of 
+ * Teaching and Research Assistant (2002, 2005), Yeditepe University, TR
     
 Publications
 ======
