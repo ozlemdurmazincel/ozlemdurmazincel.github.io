@@ -1,12 +1,12 @@
 # main links links
 main:
-   - title: "Students (Team)"
-    url: /students/    
-
   - title: "Publications"
     url: /publications/
-    
-    - title: "Teaching"
+
+  - title: "Students (Team)"
+    url: /students/    
+
+  - title: "Teaching"
     url: /teaching/    
     
   - title: "Projects"
@@ -16,5 +16,5 @@ main:
     url: /cv/
     
   - title: "Services"
-    url: /services/
+    url: /markdown/
   
