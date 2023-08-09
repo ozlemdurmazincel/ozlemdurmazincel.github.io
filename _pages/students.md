@@ -3,8 +3,7 @@ layout: archive
 permalink: /students/
 title: "Students"
 author_profile: true
-redirect_from: 
-  - /students/
+
 ---
 
 Current Graduate students
