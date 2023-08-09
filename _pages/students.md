@@ -2,7 +2,6 @@
 layout: archive
 permalink: /students/
 title: "Students"
-excerpt: "Students"
 author_profile: true
 redirect_from: 
   - /students/
