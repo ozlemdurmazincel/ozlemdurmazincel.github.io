@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /portfolio/
 title: ""
 excerpt: "Projects"
 author_profile: true
