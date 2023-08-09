@@ -26,3 +26,16 @@ The project's objective was to semantically classify places visited by smartphon
 
 - **Activity-Based Crowd-sourced/Participatory Sensing**, PI, funded by the Scientific and Research Council of Turkey Tubitak, 2013-2016 (National Young Researchers Career Development Program (3501-CAREER))
 One of the objectives of this project was to design and develop an activity based crowdsourced sensing platform where the activities of the individuals related to movement, are recognized with the sensors on the phones and the findings are transmitted to the backend servers where the behaviors of the crowds are analyzed. the second objective of the project was to create a large-scale dataset which will be shared with other researchers working in the domain and hence constitute as a benchmark platform. Check the summary here: [Arservice: a smartphone based crowd-sourced data collection and activity recognition framework](https://doi.org/10.1016/j.procs.2018.04.142)
+
+
+Participated Projects
+=========================    
+- **SARAS: Sensor-Based Augmented Reality Application**, funded by the Turkish Ministry of Science, Industry and Technology under the SAN-TEZ program, 2014-2015 (as a researcher).
+- **Green Dynamic Base Station Planning with Power Adaptation for Wireless Cellular Networks**, funded by Turk Telekom, 2012-2013  (as a researcher).
+- **Fall Detection Using Wearable Acceloremeters**, funded by Turk Telekom, 2011-2012  (as a researcher).
+- **Intelligent Home Gateway**, funded by Tubitak Teydeb  and co-funded by Ericsson Turkey, 2011-2012 (as a researcher)
+- **COST Action IC0906 - WiNeMO - Wireless Networking for Moving Objects**, funded by COST- European Cooperation in Science and Technology, 2011-2012 (as a researcher).
+- **FireSense - Fire and Smoke Detection through a WSN and Estimation of Fire Propagation for the Protection of Cultural Heritage Sites**, funded by European Commission FP7, 2009-2012 (as a researcher).
+- **SmartSurroundings**, funding by Dutch Ministry of Economic Affairs, 2005-2009 (as a research assistant)
+- **WiSeNt: Wireless Sensor Networks: Omnipresent Embedded Systems for Exploration and Control**, funded by European Commission FP6, 2004-2005 (as a research assistant).
+- **Service Discovery in Ad Hoc Networks**, funded by the Scientific and Research Council of Turkey (Tubitak), 2002-2004 (as a research assistant). 
