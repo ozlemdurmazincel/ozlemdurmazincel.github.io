@@ -23,6 +23,7 @@ News
 - (June 12, 2023) Two recent journal papers with Sumeyye Agac, Sevda Özge Bursa and Gülfem Isiklar Alptekin are accepted🎉
 1. [How to use attention to improve human activity recognition and](https://doi.org/10.1016/j.compeleceng.2023.108777)
 2. [How to personalize compressed deep learning models with transfer learning for human activity recognition](https://www.mdpi.com/2075-4418/13/11/1861)
+- (November 2022) Together with Albert Ali Salah, we hosted an Expert Workshop in the HumMingBird project about '[Making the most of mobile phone data to map migration](https://hummingbird-h2020.eu/news/event-items/EW17112022)' at Bogazici University.  
 - (November 2021) I moved back to [CMPE](https://cmpe.boun.edu.tr/) at Bogazici University
 - (2021) I received the Science Academy’s Young Scientist Award ([BAGEP](https://bilimakademisi.org/bagep-2023-cagrisi/#)), Turkey (42 researchers were awarded out of 374 applicants, one of the 3 recipients in the computer engineering domain) 
 
