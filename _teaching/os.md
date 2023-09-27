@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/os
 venue: "Galatasaray University, Computer Engineering"
-date: 2013-2021
+date: 2022-01-01
 location: "Istanbul, Turkey"
 ---
 
