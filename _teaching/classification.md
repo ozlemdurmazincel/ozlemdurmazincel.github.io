@@ -4,7 +4,7 @@ collection: teaching
 type: "Certificate program course"
 permalink: /teaching/classification
 venue: "Galatasaray University, Computer Engineering"
-date: 2022-01-01
+date: 2023-01-01
 location: "Istanbul, Turkey"
 ---
 
