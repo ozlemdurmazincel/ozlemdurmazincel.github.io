@@ -8,46 +8,16 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+2023
 ======
-* B.S. in Computer Engineering, Yeditepe University, 2002
-* M.S. in Computer Engineering, Yeditepe University, 2005
-* Ph.D in Computer Science, University of Twente, 2009
+* Bursa, S. Ö., Durmaz İncel, Ö., & Işıklar Alptekin, G. (2023). Building Lightweight Deep learning Models with TensorFlow Lite for Human Activity Recognition on Mobile Devices. Annals of Telecommunications, 1-16.
+* Bursa, S. O., Incel, O. D., & Alptekin, G. I. (2023). Personalized and motion-based human activity recognition with transfer learning and compressed deep learning models. Computers and Electrical Engineering, 109, 108777.
+* Agac, S., & Durmaz Incel, O. (2023). On the Use of a Convolutional Block Attention Module in Deep Learning-Based Human Activity Recognition with Motion Sensors. Diagnostics, 13(11), 1861.
+* Kilic, O., Saylam, B., & Durmaz Incel, O. (2023, March). Sleep Quality Prediction from Wearables using Convolution Neural Networks and Ensemble Learning. In Proceedings of the 2023 8th International Conference on Machine Learning Technologies (pp. 116-120).
+* Incel, O. D., & Bursa, S. O. (2023). On-Device Deep Learning for Mobile and Wearable Sensing Applications: A Review. IEEE Sensors Journal.
 
-Work experience
-======
-* Associate Professor (2021-current), Bogazici University, TR
-
-* Associate (formerly Assistant) Professor (2012-2021), Galatasaray University, TR
     
-* Part-time Faculty and Postdoctoral Researcher (2009-2012), Bogazici University, TR
-
- * Visiting Researcher (2007, 2008), University of Southern California, USA
-        
- * Research Assistant (2005-2009), University of Twente, NL
-
- * Teaching and Research Assistant (2002, 2005), Yeditepe University, TR
-    
-Publications
+Others 
 ======
 Full list of publications available at  [Google Scholar Page](https://scholar.google.com.tr/citations?user=r9h9Zp4AAAAJ)
     
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Vice Chair of the Computer Engineering Department, Bogazici University (02/2023, currently)
-* Head of the Software Branch of the Computer Engineering Department, Galatasaray University (GSU) (07/2017 – 11/2021)
-* Faculty Board Associate Professor Representative, GSU (07/2017 – 11/2021)
-* Member of GSU Research and Development Coordination Committee (07/2017 –11/2021)
-* Director of GSU Innovation and Entrepreneurship Centre (03/2017 – 11/2021)
-  
-      
-
-				
-
-
