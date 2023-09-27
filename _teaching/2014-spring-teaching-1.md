@@ -8,13 +8,5 @@ date: 2014-01-01
 location: "Istanbul, Turkey"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+14 lectures, weekly (3 hours). 137 undergraduate students in Fall’22 and 38 students in the Spring’23 semesters attended the course. 
+[github.com/cmpe250fall22](https://github.com/cmpe250fall22)
