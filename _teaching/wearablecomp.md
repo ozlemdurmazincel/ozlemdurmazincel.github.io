@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/wearablecomp
 venue: "Bogazici University, Galatasaray University, Computer Engineering"
-date: 2015-2023
 location: "Istanbul, Turkey"
 ---
 
