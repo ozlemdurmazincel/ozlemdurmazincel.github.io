@@ -2,7 +2,7 @@
 title: "Data Structures and Algorithms"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/datastructures
 venue: "Bogazici University, Computer Engineering"
 date: 2022-01-01
 location: "Istanbul, Turkey"
