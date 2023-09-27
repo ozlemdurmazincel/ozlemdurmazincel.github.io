@@ -14,10 +14,11 @@ I am an Associate Professor at the [Department of Computer Engineering](https://
 
 Research Interests
 ==================  
-My objective is to utilize sensing technologies available on the Internet of Things (IoT) and mobile and wearable devices, to design and build context-aware and intelligent systems that ease people's lives and improve their well-being. My research interests are on applied machine learning, human activity and well-being recognition, edge AI in the fields of wearable and ubiquitous computing, the Internet of things, and protocol design for resource efficiency in Wireless Networks. 
+My objective is to utilize sensing technologies available on the Internet of Things, mobile and wearable devices, and machine learning techniques to build context-aware, intelligent and resource-efficient systems that ease people's lives across different areas: well-being, health, assistive living, industrial applications, smart cities. My research interests are on applied machine learning, human activity and well-being recognition, edge AI in the fields of wearable and ubiquitous computing, the Internet of things, and protocol design for resource efficiency in Wireless Networks. 
 
-News
-======
+News and Announcements
+======================
+- [Sensys Conference](https://sensys.acm.org/2023/) will be held in Istanbul, between November 13-15 2023. 
 - (July 31-August 4, 2023) I participated in the [Future Computing for Digital Infrastructures Workshop](https://www.lorentzcenter.nl/future-computing-for-digital-infrastructures.html) at Lorentz Centre, NL.
 - (July 15, 2023) Our new paper with Sevda Ozge Bursa and Gulfem Alptekin is available online: [Building Lightweight Deep Learning Models with TensorFlow Lite for Human Activity Recognition on Mobile Devices](https://link.springer.com/article/10.1007/s12243-023-00962-x)
 - (June 12, 2023) Two recent journal papers with Sumeyye Agac, Sevda Özge Bursa and Gülfem Isiklar Alptekin are accepted🎉
