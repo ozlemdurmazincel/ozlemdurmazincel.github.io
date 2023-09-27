@@ -2,7 +2,7 @@
 title: "Smart Environments"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/datastructures
+permalink: /teaching/smartenvs
 venue: "Bogazici University, Computer Engineering"
 date: 2023-01-01
 location: "Istanbul, Turkey"
