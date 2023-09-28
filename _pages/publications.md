@@ -10,6 +10,7 @@ author_profile: true
 
 2023
 ======
+* Agac, S., & Durmaz Incel, O. (2023). User Authentication and Identification on Smart Glasses with Motion Sensors. Springer SN Computer Science (accepted)
 * Bursa, S. Ö., Durmaz İncel, Ö., & Işıklar Alptekin, G. (2023). Building Lightweight Deep learning Models with TensorFlow Lite for Human Activity Recognition on Mobile Devices. Annals of Telecommunications, 1-16.
 * Bursa, S. O., Incel, O. D., & Alptekin, G. I. (2023). Personalized and motion-based human activity recognition with transfer learning and compressed deep learning models. Computers and Electrical Engineering, 109, 108777.
 * Agac, S., & Durmaz Incel, O. (2023). On the Use of a Convolutional Block Attention Module in Deep Learning-Based Human Activity Recognition with Motion Sensors. Diagnostics, 13(11), 1861.
