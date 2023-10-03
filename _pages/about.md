@@ -18,6 +18,7 @@ My objective is to utilize sensing technologies available on the Internet of Thi
 
 News and Announcements
 ======================
+- (October 1, 2023) Check out our latest paper with Sumeyye Agac available now at: [User Authentication and Identification on Smart Glasses with Motion Sensors](https://doi.org/10.1007/s42979-023-02202-4). SN Computer Science, 4(6), 1-14. 
 - [Sensys Conference](https://sensys.acm.org/2023/) will be held in Istanbul, between November 13-15 2023. 
 - (July 31-August 4, 2023) I participated in the [Future Computing for Digital Infrastructures Workshop](https://www.lorentzcenter.nl/future-computing-for-digital-infrastructures.html) at Lorentz Centre, NL.
 - (July 15, 2023) Our new paper with Sevda Ozge Bursa and Gulfem Alptekin is available online: [Building Lightweight Deep Learning Models with TensorFlow Lite for Human Activity Recognition on Mobile Devices](https://link.springer.com/article/10.1007/s12243-023-00962-x)
