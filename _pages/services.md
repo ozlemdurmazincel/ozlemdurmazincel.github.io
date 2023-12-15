@@ -9,6 +9,7 @@ redirect_from:
 
 TPC Member
 =========================    
+- IoTDI 2024 - 9th ACM/IEEE Conference on Internet of Things Design and Implementation (As part of Cyber-Physical Systems and Internet-of-Things Week)
 - Sensys 2023 – 21st ACM Conference on Embedded Networked Sensor Systems
 - ACML 2023 – 15th Asian Conference on Machine Learning
 - PervasiveHealth 2023, 2022, EAI International Conference on Pervasive Computing Technologies for Healthcare.
