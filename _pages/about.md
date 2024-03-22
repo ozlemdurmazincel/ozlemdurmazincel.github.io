@@ -19,6 +19,7 @@ My objective is to utilize sensing technologies available on the Internet of Thi
 News and Announcements
 ======================
 - (February 29, 2024) I participated as an opponent in the committee of Nikita Sharma's PhD thesis defence at the University of Twente: "Sensing the Care:: Advancing Unobtrusive Sensing Solutions To Support Informal Caregivers Of Older Adults With Cognitive Impairment"
+- (January, 2024) I joined the Editorial Board of [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic) as an Associate Editor.
 - (December 13, 2023) I participated in the grading committee of Zhitao He's PhD thesis defence at Uppsala University: "Enabling Scalable Security in Internet of Things"
 - (November 13, 2023) I was one of the panelists at the [N2Women Meeting](https://sensys.acm.org/2023/n2women/) as part of SenSys 2023 conference.
 - (November 3, 2023) Check out our latest paper with Berrenur Saylam available now at: [Quantifying Digital Biomarkers for Well-Being: Stress, Anxiety, Positive and Negative Affect via Wearable Devices and Their Time-Based Predictions](https://doi.org/10.3390/s23218987) at Sensors. 
