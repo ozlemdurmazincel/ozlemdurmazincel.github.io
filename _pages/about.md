@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am an Associate Professor at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University. Formerly, I worked as a faculty member at [Galatasaray University](https://www.gsu.edu.tr) between 2012-2021 and as a postdoctoral researcher at Boğaziçi University between 2009-2012. I received my PhD in computer science from the [University of Twente](https://www.utwente.nl/en/), Netherlands, in March 2009. I was a member of the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group. I also visited USC's Autonomous Networks research group ([ANRG](https://anrg.usc.edu/www/)) during my PhD studies.
+I am an Associate Professor at the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group. Formerly, I worked as a faculty member at the[Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University and [Galatasaray University](https://www.gsu.edu.tr). I received my PhD in computer science from the [University of Twente](https://www.utwente.nl/en/), Netherlands, in March 2009. I was a member of the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group. I also visited USC's Autonomous Networks research group ([ANRG](https://anrg.usc.edu/www/)) during my PhD studies.
 
 Research Interests
 ==================  
@@ -18,6 +18,7 @@ My objective is to utilize sensing technologies available on the Internet of Thi
 
 News and Announcements
 ======================
+- (February 29, 2024) I participated as an opponent in the committee of Nikita Sharma's PhD thesis defence at the University of Twente: "Sensing the Care:: Advancing Unobtrusive Sensing Solutions To Support Informal Caregivers Of Older Adults With Cognitive Impairment"
 - (December 13, 2023) I participated in the grading committee of Zhitao He's PhD thesis defence at Uppsala University: "Enabling Scalable Security in Internet of Things"
 - (November 13, 2023) I was one of the panelists at the [N2Women Meeting](https://sensys.acm.org/2023/n2women/) as part of SenSys 2023 conference.
 - (November 3, 2023) Check out our latest paper with Berrenur Saylam available now at: [Quantifying Digital Biomarkers for Well-Being: Stress, Anxiety, Positive and Negative Affect via Wearable Devices and Their Time-Based Predictions](https://doi.org/10.3390/s23218987) at Sensors. 
