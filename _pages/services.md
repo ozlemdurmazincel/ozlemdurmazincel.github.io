@@ -9,6 +9,8 @@ redirect_from:
 
 TPC Member
 =========================    
+- ECAI 2024 - 27th European Conference On Artificial Intelligence
+- CompSys 2024 - Dutch Computer Systems and Networks Conference 2024
 - IoTDI 2024 - 9th ACM/IEEE Conference on Internet of Things Design and Implementation (As part of Cyber-Physical Systems and Internet-of-Things Week)
 - Sensys 2023 – 21st ACM Conference on Embedded Networked Sensor Systems
 - ACML 2023 – 15th Asian Conference on Machine Learning
