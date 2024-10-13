@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am an Associate Professor at the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group. Formerly, I worked as a faculty member at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University and [Galatasaray University](https://www.gsu.edu.tr). I received my PhD in computer science from the [University of Twente](https://www.utwente.nl/en/), Netherlands, in March 2009. I was a member of the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group. I also visited USC's Autonomous Networks research group ([ANRG](https://anrg.usc.edu/www/)) during my PhD studies.
+I am the head of the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group. Formerly, I worked as a faculty member at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University and [Galatasaray University](https://www.gsu.edu.tr). I received my PhD in computer science from the [University of Twente](https://www.utwente.nl/en/), Netherlands, in March 2009. I also visited USC's Autonomous Networks research group ([ANRG](https://anrg.usc.edu/www/)) during my PhD studies.
 
 Research Interests
 ==================  
@@ -18,6 +18,10 @@ My objective is to utilize sensing technologies available on the Internet of Thi
 
 News and Announcements
 ======================
+- We're seeking a talented PhD candidate to join our Pervasive Systems research group at the University of Twente to work on an innovative project at the intersection of neuro-symbolic AI and microfabricated fluidic sensors, application deadline: November 30, [Link](https://utwentecareers.nl/en/vacancies/1931/phd-position-on-neuro-symobolic-ai-for-microfabricated-fluidic-sensors/)  
+- (September 2024) I delivered a keynote speech entitled "Beyond the Basics: Enhancing Lightweight Models for Resource-efficient Human Activity Recognition" at the 9th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence ([IWOAR](https://iwoar.org/2024/)) held at HPI in Potsdam.
+- (August 2024) Sümeyye Ağaç successfully defended her PhD dissertation, "Enhancing Lightweight Models for Efficient Sensor-based Human Activity Recognition." 
+- (June, 2024) Berrenur Saylam successfully defended her PhD dissertation, "Machine Learning for Well-being Assessment: Exploring Digital Biomarkers". 
 - (February 29, 2024) I participated as an opponent in the committee of Nikita Sharma's PhD thesis defence at the University of Twente: "Sensing the Care:: Advancing Unobtrusive Sensing Solutions To Support Informal Caregivers Of Older Adults With Cognitive Impairment"
 - (January, 2024) I joined the Editorial Board of [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic) as an Associate Editor.
 - (December 13, 2023) I participated in the grading committee of Zhitao He's PhD thesis defence at Uppsala University: "Enabling Scalable Security in Internet of Things"
