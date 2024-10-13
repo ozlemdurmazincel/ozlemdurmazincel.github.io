@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* Associate Professor (2021-current), Bogazici University, TR
+* Associate Professor (2024-current), University of Twente, NL
+
+* Associate Professor (2021-2024), Bogazici University, TR
 
 * Associate (formerly Assistant) Professor (2012-2021), Galatasaray University, TR
     
@@ -41,7 +43,8 @@ Teaching
   
 Service
 ======
-* Vice Chair of the Computer Engineering Department, Bogazici University (02/2023, 10/2023)
+* Head of the Pervasive Systems Research Group, University of Twente (05/2024 - current)
+* Vice Chair of the Computer Engineering Department, Bogazici University (02/2023 - 10/2023)
 * Head of the Software Branch of the Computer Engineering Department, Galatasaray University (GSU) (07/2017 – 11/2021)
 * Faculty Board Associate Professor Representative, GSU (07/2017 – 11/2021)
 * Member of GSU Research and Development Coordination Committee (07/2017 –11/2021)
