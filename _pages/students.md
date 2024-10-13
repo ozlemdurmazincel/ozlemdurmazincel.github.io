@@ -8,16 +8,23 @@ author_profile: true
 
 Current Graduate students
 =========================    
-- Berrenur Saylam, PhD Student, Thesis: Behavioral Markers via Wearable Devices, Bogazici University.
-- Sümeyye Ağaç, PhD Student, Thesis: Resource Efficient, Sensor-Based Human Activity Recognition with Attention and Knowledge Distillation Mechanisms, Bogazici University.
-- Egemen İşgüder, MSc Student, Thesis: Federated Transfer Learning for Wellbeing Monitoring with Wearable Devices, Bogazici University
-- Ahmet Yıldırım, MSc Student, Thesis: Class-Incremental Continual Learning for Sensor-Based Human Activity Recognition, Bogazici University
-- Eren Ohtaroğlu, MSc Student, Bogazici University.
-- Rabia Gül Çelik, MSc Student, Bogazici University
+- J. Gwen Qin, PhD Thesis, Collaborative Augmented Reality, University of Twente (expected graduation 2027)
+- Fatemeh Massah, EngD Thesis, Enhancing Logistics Resilience through a Carbon Digital Twin, University of Twente (expected graduation 2026)
+- Egemen İşgüder, PhD Thesis, Design and Development of a Carbon Digital Twin for Sustainable Logistics, University of Twente (expected graduation 2028) 
+- Ahmet Yıldırım, MSc Thesis: Class-Incremental Continual Learning for Sensor-Based Human Activity Recognition, Bogazici University (expected graduation 2025)
+- Yixiang Lu, MSc thesis: Lightweight Deep Learning for Activity Recognition on Edge Devices, University of Twente (expected graduation 2025)
+- Gergana Georgieva, MSc thesis: Exploring Deep Learning Architectures and Model Compression Techniques for Continuous User Authentication Using an Earable, University of Twente (expected graduation 2025)
 
 
-Completed Theses
+Completed PhD Theses
 ==================  
+- Sümeyye Ağaç, PhD Thesis, Enhancing Lightweight Models for Efficient Sensor-based Human Activity Recognition, Bogazici University (2024)
+- Berrenur Saylam, PhD Thesis, Behavioral Markers via Wearable Devices, Bogazici University (2024)
+- Aykut Yiğitel, PhD Thesis, Green Wireless Communications, Co-advised with Prof.Dr. C. Ersoy, Bogazici University (2016)
+
+Completed MSc Theses
+==================  
+- Egemen İşgüder, MSc Thesis, Fedopenhar: Federated Multi-Task Transfer Learning for Sensor-Based Human Activity Recognition, Bogazici University (2024). 
 - Sevda Özge Bursa, Msc. Thesis, On-Device Deep Learning for Mobile and Wearable Computing, Co-advised with Assoc. Prof. Gülfem Işıklar Alptekin, Galatasaray University (2022).
 - Ceren Baş, Msc. Thesis, Time Series Analysis With Deep Learning Approaches For Industry 4.0, Galatasaray University (2019).
 - Hasan Can Volaka, Msc. Thesis, Continuous Authentication On Smartphones Through Behavioral Biometrics, Galatasaray University (2019).
