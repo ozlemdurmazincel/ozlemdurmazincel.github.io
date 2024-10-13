@@ -8,9 +8,9 @@ author_profile: true
 
 Current Graduate students
 =========================    
-- J. Gwen Qin, PhD Thesis, Collaborative Augmented Reality, University of Twente (expected graduation 2027)
-- Fatemeh Massah, EngD Thesis, Enhancing Logistics Resilience through a Carbon Digital Twin, University of Twente (expected graduation 2026)
-- Egemen İşgüder, PhD Thesis, Design and Development of a Carbon Digital Twin for Sustainable Logistics, University of Twente (expected graduation 2028) 
+- [J. Gwen Qin](https://people.utwente.nl/gwen.qin), PhD Thesis, Collaborative Augmented Reality, Co-advised with Berend-Jan van der Zwaag, University of Twente (expected graduation 2027)
+- [Fatemeh Massah](https://people.utwente.nl/f.massah), EngD Thesis, Enhancing Logistics Resilience through a Carbon Digital Twin, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2026)
+- [Egemen İşgüder](https://people.utwente.nl/egemen.isguder), PhD Thesis, Design and Development of a Carbon Digital Twin for Sustainable Logistics, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2028) 
 - Ahmet Yıldırım, MSc Thesis: Class-Incremental Continual Learning for Sensor-Based Human Activity Recognition, Bogazici University (expected graduation 2025)
 - Yixiang Lu, MSc thesis: Lightweight Deep Learning for Activity Recognition on Edge Devices, University of Twente (expected graduation 2025)
 - Gergana Georgieva, MSc thesis: Exploring Deep Learning Architectures and Model Compression Techniques for Continuous User Authentication Using an Earable, University of Twente (expected graduation 2025)
