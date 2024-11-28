@@ -9,6 +9,8 @@ redirect_from:
 
 TPC Member
 =========================    
+- Sensys 2025 - The 23rd ACM Conference on Embedded Networked Sensor Systems
+- iWOAR 2024 - 9th international Workshop on Sensor-Based Activity Recognition and Artificial Intelligence
 - ECAI 2024 - 27th European Conference On Artificial Intelligence
 - CompSys 2024 - Dutch Computer Systems and Networks Conference 2024
 - IoTDI 2024 - 9th ACM/IEEE Conference on Internet of Things Design and Implementation (As part of Cyber-Physical Systems and Internet-of-Things Week)
@@ -46,6 +48,8 @@ TPC Member
 
 Organizing Committee Member
 =========================   
+- iWOAR 2025 - 10th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence (Conference Chair)
+- CompSys Research for a Sustainable and Equitable Digital Infrastructure, ICTOpen 2025 (Co-chair)
 - SmartNets 2023 – International Conference on Smart Applications, Communications and Networking (Keynote chair)
 - PervasiveHealth 2016 - 10th International Conference on Pervasive Computing Technologies for Healthcare (Publications Chair),
 - Special session on Mobile Computing as part of the 23rd Signal Processing and Communication Applications Symposium, 2016 (Co-chair)
