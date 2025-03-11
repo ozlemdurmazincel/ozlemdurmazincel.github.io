@@ -19,8 +19,8 @@ My objective is to utilize sensing technologies available on the Internet of Thi
 News and Announcements
 ======================
 - I'll be speaking at the Science Track of the [National Autonomous Systems Congress](https://www.edih-nn.com/events/national-congress-autonomous-systems-2025-with-keynote-by-aaron-saunders-cto-boston-dynamics/) 2025 in the Netherlands
-- (February 2025) Gergana Georgieva successfully defended her [MSc thesis: "Leveraging Earable Sensors for Lightweight Gait-Based User Recognition"](https://www.linkedin.com/posts/odurmaz_datascience-machinelearning-computerscience-activity-7298302353902845952-Zmwg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA8q3IBgExqH0TRkmPRyqt6lVMtYH59Ogs)
-- (January 2025) Yixiang Lu successfully defended his MSc thesis: "Resource-Efficient Deep Learning For Mobile Activity Recognition On Edge Devices"
+- (February 2025) Gergana Georgieva successfully defended her [MSc thesis](https://purl.utwente.nl/essays/105229): "Leveraging Earable Sensors for Lightweight Gait-Based User Recognition"
+- (January 2025) Yixiang Lu successfully defended his [MSc thesis](https://purl.utwente.nl/essays/105044): "Resource-Efficient Deep Learning For Mobile Activity Recognition On Edge Devices"
 - We're seeking a talented PhD candidate to join our Pervasive Systems research group at the University of Twente to work on multimodal information fusion in dynamic environments, application deadline: January 5, [Link](https://utwentecareers.nl/en/vacancies/1953/phd-position-on-multimodal-information-fusion-in-dynamic-environments/)  
 - (November 2024) Invited to serve on the TPC of SenSys 2025
 - (November 2024) Starting to serve as an Associate Editor of the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies [PACM IMWUT](https://dl.acm.org/journal/imwut).
