@@ -9,6 +9,8 @@ redirect_from:
 
 TPC Member
 =========================    
+- EdgeSys 2025 8th International Workshop on Edge Systems, Analytics and Networking
+- PervasiveHealth 2025, 2023, 2022, EAI International Conference on Pervasive Computing Technologies for Healthcare.
 - Sensys 2025 - The 23rd ACM Conference on Embedded Networked Sensor Systems
 - iWOAR 2024 - 9th international Workshop on Sensor-Based Activity Recognition and Artificial Intelligence
 - ECAI 2024 - 27th European Conference On Artificial Intelligence
@@ -16,7 +18,6 @@ TPC Member
 - IoTDI 2024 - 9th ACM/IEEE Conference on Internet of Things Design and Implementation (As part of Cyber-Physical Systems and Internet-of-Things Week)
 - Sensys 2023 – 21st ACM Conference on Embedded Networked Sensor Systems
 - ACML 2023 – 15th Asian Conference on Machine Learning
-- PervasiveHealth 2023, 2022, EAI International Conference on Pervasive Computing Technologies for Healthcare.
 - Balkancom 2023 - 6th International Conference on Communications and Networking
 - SIU 2023 – 31st IEEE Conference on Signal Processing and Communications Applications
 - IEEE CS Turkiye Masters Thesis awards, 2023
