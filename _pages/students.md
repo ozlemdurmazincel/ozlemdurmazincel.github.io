@@ -12,10 +12,8 @@ Current Graduate students
 - [Fatemeh Massah](https://people.utwente.nl/f.massah), EngD Thesis, Enhancing Logistics Resilience through a Carbon Digital Twin, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2026)
 - [Egemen İşgüder](https://people.utwente.nl/egemen.isguder), PhD Thesis, Design and Development of a Carbon Digital Twin for Sustainable Logistics, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2028) 
 - Ahmet Yıldırım, MSc Thesis: Class-Incremental Continual Learning for Sensor-Based Human Activity Recognition, Bogazici University (expected graduation 2025)
-- Yixiang Lu, MSc thesis: Lightweight Deep Learning for Activity Recognition on Edge Devices, University of Twente (expected graduation January 2025)
-- Gergana Georgieva, MSc thesis: Exploring Deep Learning Architectures and Model Compression Techniques for Continuous User Authentication Using an Earable, University of Twente (expected graduation January 2025)
 - Sidhharth Balakrishnan, MSc thesis: Monitoring Cyclists Behaviour: A Data-Driven Approach to Awareness and Safety
-
+- Bambang Muharto, MSc thesis: Silent Speech Recognition with Construction Workers using Earables
 
 Completed PhD Theses
 ==================  
@@ -25,6 +23,8 @@ Completed PhD Theses
 
 Completed MSc Theses
 ==================  
+- Gergana Georgieva, MSc thesis: Leveraging Earable Sensors for Lightweight Gait-Based User Recognition, University of Twente (February 2025)
+- Yixiang Lu, MSc thesis: Resource-Efficient Deep Learning For Mobile Activity Recognition On Edge Devices, University of Twente (January 2025)
 - Egemen İşgüder, MSc Thesis, Fedopenhar: Federated Multi-Task Transfer Learning for Sensor-Based Human Activity Recognition, Bogazici University (2024). 
 - Sevda Özge Bursa, Msc. Thesis, On-Device Deep Learning for Mobile and Wearable Computing, Co-advised with Assoc. Prof. Gülfem Işıklar Alptekin, Galatasaray University (2022).
 - Ceren Baş, Msc. Thesis, Time Series Analysis With Deep Learning Approaches For Industry 4.0, Galatasaray University (2019).
