@@ -8,12 +8,13 @@ author_profile: true
 
 Current Graduate students
 =========================    
+- [Minh Son Nguyen](https://people.utwente.nl/m.s.nguyen), PhD Thesis, Transformer-Based Deep Learning for Robust Indoor Localization and Inertial Navigation, Co-advised with Duc Viet Le, University of Twente (expected graduation 2025)
 - [J. Gwen Qin](https://people.utwente.nl/gwen.qin), PhD Thesis, Collaborative Augmented Reality, Co-advised with Berend-Jan van der Zwaag, University of Twente (expected graduation 2027)
 - [Fatemeh Massah](https://people.utwente.nl/f.massah), EngD Thesis, Enhancing Logistics Resilience through a Carbon Digital Twin, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2026)
 - [Egemen İşgüder](https://people.utwente.nl/egemen.isguder), PhD Thesis, Design and Development of a Carbon Digital Twin for Sustainable Logistics, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2028) 
 - Ahmet Yıldırım, MSc Thesis: Class-Incremental Continual Learning for Sensor-Based Human Activity Recognition, Bogazici University (expected graduation 2025)
-- Sidhharth Balakrishnan, MSc thesis: Monitoring Cyclists Behaviour: A Data-Driven Approach to Awareness and Safety
-- Bambang Muharto, MSc thesis: Silent Speech Recognition with Construction Workers using Earables
+- Sidhharth Balakrishnan, MSc thesis: Monitoring Cyclists Behaviour: A Data-Driven Approach to Awareness and Safety (expected graduation 2025)
+- Bambang Muharto, MSc thesis: Silent Speech Recognition with Construction Workers using Earables (expected graduation 2025)
 
 Completed PhD Theses
 ==================  
