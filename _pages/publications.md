@@ -9,6 +9,7 @@ author_profile: true
 {% include base_path %}
 2024
 ======
+* Özkaynak, B., Aras, N., Daloğlu Çetinkaya, İ., Ersoy, C., Durmaz İncel, Ö., Koca, M., ... & Yücesoy, C. A. (2024). Neurochallenges in smart cities: state-of-the-art, perspectives, and research directions. Frontiers in Neuroscience, 18, 1279668.
 * Sepanosian, T., & Durmaz Incel, O. (2024, October). Boxing Gesture Recognition in Real-Time using Earable IMUs. In Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (pp. 673-678).
 * Sepanosian, T., & Durmaz Incel, O. (2024, October). Training Smarter with OpenEarable: A Boxing Gesture Recognition Dashboard Integration. In Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (pp. 921-924).
 * Agac, S., & Incel, O. D. (2024). Resource-efficient, sensor-based human activity recognition with lightweight deep models boosted with attention. Computers and Electrical Engineering, 117, 109274.
