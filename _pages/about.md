@@ -22,7 +22,7 @@ News and Announcements
 - (March 17, 2025) I participated in the committee of Lin Zhou's PhD thesis defence at Hasso Plattner Institute (University of Potsdam): "Personalized Mobile Gait Analysis: Towards Wearable-Based Rehabilitation in Daily Life"
 - (February 2025) Gergana Georgieva successfully defended her [MSc thesis](https://purl.utwente.nl/essays/105229): "Leveraging Earable Sensors for Lightweight Gait-Based User Recognition"
 - (January 2025) Yixiang Lu successfully defended his [MSc thesis](https://purl.utwente.nl/essays/105044): "Resource-Efficient Deep Learning For Mobile Activity Recognition On Edge Devices"
-- We're seeking a talented PhD candidate to join our Pervasive Systems research group at the University of Twente to work on multimodal information fusion in dynamic environments, application deadline: January 5, [Link](https://utwentecareers.nl/en/vacancies/1953/phd-position-on-multimodal-information-fusion-in-dynamic-environments/)  
+- (December 2024) I have joined [Lorentz Center](https://www.lorentzcenter.nl/home.html) Informatics Scientific Advisory Board
 - (November 2024) Invited to serve on the TPC of SenSys 2025
 - (November 2024) Starting to serve as an Associate Editor of the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies [PACM IMWUT](https://dl.acm.org/journal/imwut).
 - (September 2024) I delivered a keynote speech entitled "Beyond the Basics: Enhancing Lightweight Models for Resource-efficient Human Activity Recognition" at the 9th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence ([IWOAR](https://iwoar.org/2024/)) held at HPI in Potsdam.
