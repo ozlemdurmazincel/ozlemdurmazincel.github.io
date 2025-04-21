@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am the head of the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group at the [University of Twente](https://www.utwente.nl/en/), Netherlands. Formerly, I worked as a faculty member at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University and [Galatasaray University](https://www.gsu.edu.tr). I received my PhD in computer science from the [University of Twente](https://www.utwente.nl/en/). I also visited USC's Autonomous Networks research group ([ANRG](https://anrg.usc.edu/www/)) during my PhD studies.
+I lead the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group at the [University of Twente](https://www.utwente.nl/en/), Netherlands. Formerly, I worked as a faculty member at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University and [Galatasaray University](https://www.gsu.edu.tr). I received my PhD in computer science from the [University of Twente](https://www.utwente.nl/en/). I was also a member of USC's Autonomous Networks Research Group ([ANRG](https://anrg.usc.edu/www/)) as a visitor during my PhD studies.
 
 Research Interests
 ==================  
@@ -18,6 +18,7 @@ My objective is to utilize sensing technologies available on the Internet of Thi
 
 News and Announcements
 ======================
+- (April 16, 2025) Together with [Nitinder Mohan](https://www.nitindermohan.com/), we organized the [CompSys](https://www.compsys.science/) track at [IctOpen](https://ictopen.nl/)  
 - On April 2, I'll be speaking at the Science Track of the [National Autonomous Systems Congress](https://www.edih-nn.com/events/national-congress-autonomous-systems-2025-with-keynote-by-aaron-saunders-cto-boston-dynamics/) 2025 in the Netherlands
 - (March 17, 2025) I participated in the committee of Lin Zhou's PhD thesis defence at Hasso Plattner Institute (University of Potsdam): "Personalized Mobile Gait Analysis: Towards Wearable-Based Rehabilitation in Daily Life"
 - (February 2025) Gergana Georgieva successfully defended her [MSc thesis](https://purl.utwente.nl/essays/105229): "Leveraging Earable Sensors for Lightweight Gait-Based User Recognition"
