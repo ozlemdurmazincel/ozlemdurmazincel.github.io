@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Associate Professor (2024-current), University of Twente, NL
+* Associate Professor- UHD1 (2024-current), University of Twente, NL
 
 * Associate Professor (2021-2024), Bogazici University, TR
 
