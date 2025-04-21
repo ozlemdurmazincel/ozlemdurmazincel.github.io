@@ -9,8 +9,10 @@ redirect_from:
 
 TPC Member
 =========================    
+- CompSys 2025 - Dutch Computer Systems and Networks Conference 2025
+- IEEE IJCB 2025, International Joint Conference on Biometrics
 - EdgeSys 2025 8th International Workshop on Edge Systems, Analytics and Networking
-- PervasiveHealth 2025, 2023, 2022, EAI International Conference on Pervasive Computing Technologies for Healthcare.
+- PervasiveHealth 2025, 2023, 2022, EAI International Conference on Pervasive Computing Technologies for Healthcare
 - Sensys 2025 - The 23rd ACM Conference on Embedded Networked Sensor Systems
 - iWOAR 2024 - 9th international Workshop on Sensor-Based Activity Recognition and Artificial Intelligence
 - ECAI 2024 - 27th European Conference On Artificial Intelligence
