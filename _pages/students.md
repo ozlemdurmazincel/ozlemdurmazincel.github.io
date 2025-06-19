@@ -13,8 +13,8 @@ Current Graduate students
 - [Fatemeh Massah](https://people.utwente.nl/f.massah), EngD Thesis, Enhancing Logistics Resilience through a Carbon Digital Twin, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2026)
 - [Egemen İşgüder](https://people.utwente.nl/egemen.isguder), PhD Thesis, Design and Development of a Carbon Digital Twin for Sustainable Logistics, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2028) 
 - Ahmet Yıldırım, MSc Thesis: Class-Incremental Continual Learning for Sensor-Based Human Activity Recognition, Bogazici University (expected graduation 2025)
-- Sidhharth Balakrishnan, MSc thesis: Monitoring Cyclists Behaviour: A Data-Driven Approach to Awareness and Safety (expected graduation 2025)
 - Bambang Muharto, MSc thesis: Silent Speech Recognition with Construction Workers using Earables (expected graduation 2025)
+- Damian Gonzalez Gonzalez, MSc Thesis: Head Gesture Recognition (expected graduation 2025)
 
 Completed PhD Theses
 ==================  
@@ -24,6 +24,7 @@ Completed PhD Theses
 
 Completed MSc Theses
 ==================  
+- Sidhharth Balakrishnan, MSc thesis: [Earable-Based Visual Distraction Monitoring in Cyclists](https://purl.utwente.nl/essays/106412) (June 2025)
 - Gergana Georgieva, MSc thesis: [Leveraging Earable Sensors for Lightweight Gait-Based User Recognition](https://purl.utwente.nl/essays/105229), University of Twente (February 2025)
 - Yixiang Lu, MSc thesis: [Resource-Efficient Deep Learning For Mobile Activity Recognition On Edge Devices](https://purl.utwente.nl/essays/105044), University of Twente (January 2025)
 - Egemen İşgüder, MSc Thesis, Fedopenhar: Federated Multi-Task Transfer Learning for Sensor-Based Human Activity Recognition, Bogazici University (2024). 
