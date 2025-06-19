@@ -19,6 +19,7 @@ My objective is to utilize sensing technologies available on the Internet of Thi
 News and Announcements
 ======================
 - We are hosting the [iWOAR 2025](https://iwoar.org/) (10th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence) at the University of Twente on September 18-19!
+- Sidhharth Balakrishan successfully defended his [MSc thesis]([https://essay.utwente.nl/106412/))](https://purl.utwente.nl/essays/106412): "Earable-Based Visual Distraction Monitoring in Cyclists"
 - (May 7, 2025) I participated in the committee of Diah Harnoni Apriyanti's PhD thesis defence at the University of Twente: "Towards explainable orchid flower identification"
 - (April 16, 2025) Together with [Nitinder Mohan](https://www.nitindermohan.com/), we organized the [CompSys](https://www.compsys.science/) track at [IctOpen](https://ictopen.nl/)  
 - On April 2, I'll be speaking at the Science Track of the [National Autonomous Systems Congress](https://www.edih-nn.com/events/national-congress-autonomous-systems-2025-with-keynote-by-aaron-saunders-cto-boston-dynamics/) 2025 in the Netherlands
