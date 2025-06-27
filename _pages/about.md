@@ -19,7 +19,7 @@ My objective is to utilize sensing technologies available on the Internet of Thi
 News and Announcements
 ======================
 - We are hosting the [iWOAR 2025](https://iwoar.org/) (10th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence) at the University of Twente on September 18-19!
-- (June 25, 2025) I participated in the committee of Ngakan Nyoman Kutha Krisnawijaya's PhD thesis defence at Wageningen University: "𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗮𝗹 𝗗𝗲𝘀𝗶𝗴𝗻 𝗼𝗳 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗮𝗻𝗱 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 𝗳𝗼𝗿 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴"
+- (June 25, 2025) I participated in the committee of Ngakan Nyoman Kutha Krisnawijaya's PhD thesis defence at Wageningen University: "Architectural Design of Data Management and Analytics Platforms for Smart Farming"  
 - (June 2025) Sidhharth Balakrishan successfully defended his [MSc thesis](https://purl.utwente.nl/essays/106412): "Earable-Based Visual Distraction Monitoring in Cyclists"
 - (May 7, 2025) I participated in the committee of Diah Harnoni Apriyanti's PhD thesis defence at the University of Twente: "Towards explainable orchid flower identification"
 - (April 16, 2025) Together with [Nitinder Mohan](https://www.nitindermohan.com/), we organized the [CompSys](https://www.compsys.science/) track at [IctOpen](https://ictopen.nl/)  
