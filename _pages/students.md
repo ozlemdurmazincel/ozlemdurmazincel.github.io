@@ -8,11 +8,11 @@ author_profile: true
 
 Current Graduate students
 =========================    
-- [Minh Son Nguyen](https://people.utwente.nl/m.s.nguyen), PhD Thesis, Transformer-Based Deep Learning for Robust Indoor Localization and Inertial Navigation, Co-advised with Duc Viet Le, University of Twente (expected graduation 2025)
+- [Ali Sabzi Khoshraftar](https://people.utwente.nl/a.sabzikhoshraftar), PhD Thesis, Continual Learning on Mobile Data, (expected graduation 2028)
+- [Minh Son Nguyen](https://people.utwente.nl/m.s.nguyen), PhD Thesis, Transformer-Based Deep Learning for Robust Indoor Localization and Inertial Navigation, Co-advised with Duc Viet Le and Maarten van Steen, University of Twente (expected graduation 2025)
 - [J. Gwen Qin](https://people.utwente.nl/gwen.qin), PhD Thesis, Collaborative Augmented Reality, Co-advised with Berend-Jan van der Zwaag, University of Twente (expected graduation 2027)
 - [Fatemeh Massah](https://people.utwente.nl/f.massah), EngD Thesis, Enhancing Logistics Resilience through a Carbon Digital Twin, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2026)
 - [Egemen İşgüder](https://people.utwente.nl/egemen.isguder), PhD Thesis, Design and Development of a Carbon Digital Twin for Sustainable Logistics, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2028) 
-- Ahmet Yıldırım, MSc Thesis: Class-Incremental Continual Learning for Sensor-Based Human Activity Recognition, Bogazici University (expected graduation 2025)
 - Bambang Muharto, MSc thesis: Silent Speech Recognition with Construction Workers using Earables (expected graduation 2025)
 - Damian Gonzalez Gonzalez, MSc Thesis: Head Gesture Recognition (expected graduation 2025)
 
