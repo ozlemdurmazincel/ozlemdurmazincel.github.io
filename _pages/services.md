@@ -9,6 +9,8 @@ redirect_from:
 
 TPC Member
 =========================    
+- SenSys 2026 - ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems
+- SmartWear 2025 - The 3rd Workshop on Smart Wearable Systems and Applications
 - CompSys 2025 - Dutch Computer Systems and Networks Conference 2025
 - IEEE IJCB 2025, International Joint Conference on Biometrics
 - EdgeSys 2025 8th International Workshop on Edge Systems, Analytics and Networking
