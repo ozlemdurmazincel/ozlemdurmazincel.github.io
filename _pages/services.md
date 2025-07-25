@@ -66,4 +66,10 @@ Organizing Committee Member
 - ISSNIP 2010 – Symposium on Theoretical and Practical Aspects of Large-scale Wireless Sensor Networks, (Co-chair)
 - ISSNIP 2009 – Symposium on Sensor Networks (Co-chair)
 
+Associate Editor
+=========================    
+- [IEEE Internet Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4236)
+- [IMWUT-Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut)
+
+
 
