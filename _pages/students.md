@@ -8,12 +8,12 @@ author_profile: true
 
 Current Graduate students
 =========================    
-- [Ali Sabzi Khoshraftar](https://people.utwente.nl/a.sabzikhoshraftar), PhD Thesis, Continual Learning on Mobile Data, (expected graduation 2028)
-- [Minh Son Nguyen](https://people.utwente.nl/m.s.nguyen), PhD Thesis, Transformer-Based Deep Learning for Robust Indoor Localization and Inertial Navigation, Co-advised with Duc Viet Le and Maarten van Steen, University of Twente (expected graduation 2025)
+- [Ali Sabzi Khoshraftar](https://people.utwente.nl/a.sabzikhoshraftar), PhD Thesis, Continual Learning on Mobile Data, Co-advised with Duc Viet Le (expected graduation 2028)
+- [Egemen İşgüder](https://people.utwente.nl/egemen.isguder), PhD Thesis, Design and Development of a Carbon Digital Twin for Sustainable Logistics, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2028) 
+- [Qingyu Xian](https://people.utwente.nl/q.xian), PhD Thesis, Image-Based Vibration Monitoring for Structural Health of Bridges, Co-advised with Berend-Jan van der Zwaag, University of Twente (expected graduation 2027)
 - [J. Gwen Qin](https://people.utwente.nl/gwen.qin), PhD Thesis, Collaborative Augmented Reality, Co-advised with Berend-Jan van der Zwaag, University of Twente (expected graduation 2027)
 - [Fatemeh Massah](https://people.utwente.nl/f.massah), EngD Thesis, Enhancing Logistics Resilience through a Carbon Digital Twin, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2026)
-- [Egemen İşgüder](https://people.utwente.nl/egemen.isguder), PhD Thesis, Design and Development of a Carbon Digital Twin for Sustainable Logistics, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2028) 
-- Bambang Muharto, MSc thesis: Silent Speech Recognition with Construction Workers using Earables (expected graduation 2025)
+- [Minh Son Nguyen](https://people.utwente.nl/m.s.nguyen), PhD Thesis, Transformer-Based Deep Learning for Robust Indoor Localization and Inertial Navigation, Co-advised with Duc Viet Le and Maarten van Steen, University of Twente (expected graduation October 2025)
 - Damian Gonzalez Gonzalez, MSc Thesis: Head Gesture Recognition (expected graduation 2025)
 
 Completed PhD Theses
@@ -24,6 +24,7 @@ Completed PhD Theses
 
 Completed MSc Theses
 ==================  
+- Bambang Muharto, MSc thesis: Silent Communication in High Noise Environments Using Earables: A Multi-Modal Sensing Approach (August 2025)
 - Sidhharth Balakrishnan, MSc thesis: [Earable-Based Visual Distraction Monitoring in Cyclists](https://purl.utwente.nl/essays/106412) (June 2025)
 - Gergana Georgieva, MSc thesis: [Leveraging Earable Sensors for Lightweight Gait-Based User Recognition](https://purl.utwente.nl/essays/105229), University of Twente (February 2025)
 - Yixiang Lu, MSc thesis: [Resource-Efficient Deep Learning For Mobile Activity Recognition On Edge Devices](https://purl.utwente.nl/essays/105044), University of Twente (January 2025)
