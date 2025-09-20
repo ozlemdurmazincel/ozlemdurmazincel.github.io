@@ -18,7 +18,9 @@ My objective is to utilize sensing technologies available on the Internet of Thi
 
 News and Announcements
 ======================
-- We are hosting the [iWOAR 2025](https://iwoar.org/) (10th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence) at the University of Twente on September 18-19!
+- (September 2025) As the Pervasive System Research Group, we have hosted the [iWOAR 2025](https://iwoar.org/) (10th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence) at the University of Twente on September 18-19!
+- (August 2025) Bambang Muharto successfully defended his MSc thesis: "Silent Communication in High Noise Environments Using Earables: A Multi-Modal Sensing Approach"
+- (July 1, 2025) The [TRUMAN project](https://www.truman-horizon.eu/) kicks off! The PS group is contributing to Work Package 3 (AI Methods).
 - (June 25, 2025) I participated in the committee of Ngakan Nyoman Kutha Krisnawijaya's PhD thesis defence at Wageningen University: "Architectural Design of Data Management and Analytics Platforms for Smart Farming"  
 - (June 2025) Sidhharth Balakrishan successfully defended his [MSc thesis](https://purl.utwente.nl/essays/106412): "Earable-Based Visual Distraction Monitoring in Cyclists"
 - (May 7, 2025) I participated in the committee of Diah Harnoni Apriyanti's PhD thesis defence at the University of Twente: "Towards explainable orchid flower identification"
