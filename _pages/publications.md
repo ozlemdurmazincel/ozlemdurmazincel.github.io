@@ -7,6 +7,14 @@ author_profile: true
 
 
 {% include base_path %}
+2025 
+======
+* Kupers, X., Brinke, J. K., Bemthuis, R., & Incel, O. D. (2025, August). Towards Edge-Based Idle State Detection in Construction Machinery Using Surveillance Cameras. In Intelligent Systems Conference (pp. 402-418). Cham: Springer Nature Switzerland.
+* Khoshraftar, A. S., van der Zwaag, B. J., Le, D. V., & Durmaz-Incel, Ö. (2025, July). Digital Twins for Bridge Assessment and Maintenance. In 2025 International Conference on Smart Applications, Communications and Networking (SmartNets) (pp. 1-6). IEEE.
+* Peltonen, E., Bayhan, S., Bermbach, D., Buschjager, S., Degeler, V., Ding, A. Y., ... & van der Waaij, B. (2025). Rethinking Computing Systems in the Era of Climate Crisis: A Call for a Sustainable Computing Continuum. IEEE Internet Computing.
+* İşgüder, E., & Durmaz İncel, Ö. (2025). FedOpenHAR: Federated Multitask Transfer Learning for Sensor-Based Human Activity Recognition. Journal of Computational Biology, 32(6), 558-572.
+  
+
 2024
 ======
 * Özkaynak, B., Aras, N., Daloğlu Çetinkaya, İ., Ersoy, C., Durmaz İncel, Ö., Koca, M., ... & Yücesoy, C. A. (2024). Neurochallenges in smart cities: state-of-the-art, perspectives, and research directions. Frontiers in Neuroscience, 18, 1279668.
