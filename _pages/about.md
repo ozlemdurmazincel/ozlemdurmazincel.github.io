@@ -18,6 +18,7 @@ My objective is to utilize sensing technologies available on the Internet of Thi
 
 News and Announcements
 ======================
+- (November 2025) Damian Gonzalez Gonzalez defended his MSc thesis: "A Lightweight Ensemble Framework for Sensor Fault Detection and Sensor Fusion in Earable Devices"
 - (October 16, 2025) Son Minh Nguyen has successfully defended his PhD dissertation "[Underspecification of transformers in indoor localization and indoor navigation](https://doi.org/10.3990/1.9789036567282)"
 - (October 2025) I will be delivering a keynote speech entitled "From Sensing to System: Data Collection and Edge AI with Resource Constraints" at the [DiversityOne Open Challenge](https://datascientiafoundation.github.io/diversityone-2025/) at [UbiComp/ISWC 2025](https://www.ubicomp.org/ubicomp-iswc-2025/) and as the Pervasive Systems Research Group, we will present [five papers](https://www.utwente.nl/en/eemcs/ps/news/2025/10/610031/pervasive-systems-to-present-five-workshop-papers-at-ubicomp-2025) in the workshops of Ubicomp 2025. 
 - (September 2025) As the Pervasive System Research Group, we have hosted the [iWOAR 2025](https://iwoar.org/) (10th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence) at the University of Twente on September 18-19!
