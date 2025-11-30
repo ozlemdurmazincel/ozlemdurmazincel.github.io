@@ -13,7 +13,9 @@ Current Graduate students
 - [Qingyu Xian](https://people.utwente.nl/q.xian), PhD Thesis, Image-Based Vibration Monitoring for Structural Health of Bridges, Co-advised with Berend-Jan van der Zwaag, University of Twente (expected graduation 2027)
 - [J. Gwen Qin](https://people.utwente.nl/gwen.qin), PhD Thesis, Collaborative Augmented Reality, Co-advised with Berend-Jan van der Zwaag, University of Twente (expected graduation 2027)
 - [Fatemeh Massah](https://people.utwente.nl/f.massah), EngD Thesis, Enhancing Logistics Resilience through a Carbon Digital Twin, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2026)
-- Damian Gonzalez Gonzalez, MSc Thesis: Head Gesture Recognition (expected graduation 2025)
+- Akhil Pallamreddy, PhD Thesis, Intelligent Speed Adaptation with E-bikes, co-advised with Yanqiu Huang, University of Twente
+- Deepak Yeleshetty, PhD Thesis, Pedalling Together: Towards Collaborative Intelligence and Secure Data Sharing in Smart Connected Bicycles, co-advised with Yanqiu Huang, University of Twente
+  
 
 Completed PhD Theses
 ==================  
@@ -24,8 +26,9 @@ Completed PhD Theses
 
 Completed MSc Theses
 ==================  
-- Bambang Muharto, MSc thesis: Silent Communication in High Noise Environments Using Earables: A Multi-Modal Sensing Approach (August 2025)
-- Sidhharth Balakrishnan, MSc thesis: [Earable-Based Visual Distraction Monitoring in Cyclists](https://purl.utwente.nl/essays/106412) (June 2025)
+- Damian Gonzalez Gonzalez, MSc thesis: A Lightweight Ensemble Framework for Sensor Fault Detection and Sensor Fusion in Earable Devices, University of Twente (November 2025)
+- Bambang Muharto, MSc thesis: Silent Communication in High Noise Environments Using Earables: A Multi-Modal Sensing Approach University of Twente (August 2025)
+- Sidhharth Balakrishnan, MSc thesis: [Earable-Based Visual Distraction Monitoring in Cyclists](https://purl.utwente.nl/essays/106412), University of Twente (June 2025)
 - Gergana Georgieva, MSc thesis: [Leveraging Earable Sensors for Lightweight Gait-Based User Recognition](https://purl.utwente.nl/essays/105229), University of Twente (February 2025)
 - Yixiang Lu, MSc thesis: [Resource-Efficient Deep Learning For Mobile Activity Recognition On Edge Devices](https://purl.utwente.nl/essays/105044), University of Twente (January 2025)
 - Egemen İşgüder, MSc Thesis, Fedopenhar: Federated Multi-Task Transfer Learning for Sensor-Based Human Activity Recognition, Bogazici University (2024). 
