@@ -1,14 +1,20 @@
 ---
 layout: archive
 permalink: /students/
-title: "Students"
+title: "Team/Alumni"
 author_profile: true
 
 ---
+I lead a diverse and multidisciplinary team of more than 30 members, comprising scientific staff, postdocs, PhD/EngD students, and support personnel. Our research focuses on Omni-Modal Perception, Resilient Networking, and Distributed Intelligence.
+[Meet the full Pervasive Systems Team here](https://www.utwente.nl/en/eemcs/ps/people/)
+
 
 Current Graduate students
 =========================    
-- [Ali Sabzi Khoshraftar](https://people.utwente.nl/a.sabzikhoshraftar), PhD Thesis, Continual Learning on Mobile Data, Co-advised with Duc Viet Le (expected graduation 2028)
+- [Minh Thanh Nguyen](https://people.utwente.nl/m.t.nguyen), PhD Thesis, Efficient Uncertainty Quantification (UQ) for Video-based Invisible Motion Tracking, Co-advised with Duc Le Viet (expected graduation 2029)
+- [Hai Long Nguyen](https://people.utwente.nl/hailong.nguyen), PhD Thesis, Neuro-symbolic AI for microfabricated fluidic sensors, Co-advised with Duc Le Viet (expected graduation 2029)
+- [Adarsh Nanjaiya Latha](https://people.utwente.nl/a.nanjaiyalatha), PhD Thesis, Multi-modal Information in Drone Swarms, Co-advised with Alex Chiumento (expected graduation 2029)
+- [Ali Sabzi Khoshraftar](https://people.utwente.nl/a.sabzikhoshraftar), PhD Thesis, Continual Learning on Mobile Data, Co-advised with Duc Le Viet  (expected graduation 2029)
 - [Egemen İşgüder](https://people.utwente.nl/egemen.isguder), PhD Thesis, Design and Development of a Carbon Digital Twin for Sustainable Logistics, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2028) 
 - [Qingyu Xian](https://people.utwente.nl/q.xian), PhD Thesis, Image-Based Vibration Monitoring for Structural Health of Bridges, Co-advised with Berend-Jan van der Zwaag, University of Twente (expected graduation 2027)
 - [J. Gwen Qin](https://people.utwente.nl/gwen.qin), PhD Thesis, Collaborative Augmented Reality, Co-advised with Berend-Jan van der Zwaag, University of Twente (expected graduation 2027)
