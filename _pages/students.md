@@ -5,7 +5,7 @@ title: "Team/Alumni"
 author_profile: true
 
 ---
-I lead a diverse and multidisciplinary team of more than 30 members, comprising scientific staff, postdocs, PhD/EngD students, and support personnel. Our research focuses on Omni-Modal Perception, Resilient Networking, and Distributed Intelligence.
+I lead a multidisciplinary team of more than 30 members, comprising scientific staff, postdocs, PhD/EngD students, and support personnel. Our research focuses on Omni-Modal Perception, Resilient Networking, and Distributed Intelligence.
 [Meet the full Pervasive Systems Team here](https://www.utwente.nl/en/eemcs/ps/people/)
 
 
