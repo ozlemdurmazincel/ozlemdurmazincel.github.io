@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I lead the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group at the [University of Twente](https://www.utwente.nl/en/), Netherlands. Formerly, I worked as a faculty member at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University and [Galatasaray University](https://www.gsu.edu.tr). I received my PhD in computer science from the [University of Twente](https://www.utwente.nl/en/). I was also a member of USC's Autonomous Networks Research Group ([ANRG](https://anrg.usc.edu/www/)) as a visitor during my PhD studies.
+I am the chair of the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group at the [University of Twente](https://www.utwente.nl/en/), Netherlands. Formerly, I worked as a faculty member at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University and [Galatasaray University](https://www.gsu.edu.tr). I received my PhD in computer science from the [University of Twente](https://www.utwente.nl/en/). I was also a member of USC's Autonomous Networks Research Group ([ANRG](https://anrg.usc.edu/www/)) as a visitor during my PhD studies.
 
 Research Interests
 ==================  
