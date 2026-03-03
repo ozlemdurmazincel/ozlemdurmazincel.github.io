@@ -7,6 +7,8 @@ author_profile: true
 
 
 {% include base_path %}
+Full list of publications available at  [Google Scholar Page](https://scholar.google.com.tr/citations?user=r9h9Zp4AAAAJ) 
+
 2025 
 ======
 * Kupers, X., Brinke, J. K., Bemthuis, R., & Incel, O. D. (2025, August). Towards Edge-Based Idle State Detection in Construction Machinery Using Surveillance Cameras. In Intelligent Systems Conference (pp. 402-418). Cham: Springer Nature Switzerland.
