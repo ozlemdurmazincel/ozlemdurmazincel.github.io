@@ -10,14 +10,21 @@ redirect_from:
 
 About
 ======
-I am the chair of the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group at the [University of Twente](https://www.utwente.nl/en/), Netherlands. Formerly, I worked as a faculty member at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University and [Galatasaray University](https://www.gsu.edu.tr). I received my PhD in computer science from the [University of Twente](https://www.utwente.nl/en/). I was also a member of USC's Autonomous Networks Research Group ([ANRG](https://anrg.usc.edu/www/)) as a visitor during my PhD studies.
+I am a senior Associate Professor of Computer Science at the [University of Twente](https://www.utwente.nl/en/), where I lead the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group. As a systems builder with over 16 years of experience, I sit at the intersection of mobile computing, Edge AI, and wireless sensing. My research objective is to bridge the gap between physical sensing and intelligent action. I lead a team of ~30 researchers working to orchestrate the full IoT stack, from capturing multimodal data on resource-constrained devices (such as earables) to processing it efficiently at the edge. Previously, I served as a faculty member at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University and [Galatasaray University](https://www.gsu.edu.tr), and held a visiting position at USC’s Autonomous Networks Research Group ([ANRG](https://anrg.usc.edu/www/)).
 
-Research Interests
+Research Focus
 ==================  
-My objective is to utilize sensing technologies available on the Internet of Things, mobile and wearable devices, and machine learning techniques to build context-aware, intelligent and resource-efficient systems that ease people's lives across different areas: well-being, health, assistive living, industrial applications, smart cities. My research interests are on applied machine learning, human activity and well-being recognition, edge AI in the fields of wearable and ubiquitous computing, the Internet of things, and protocol design for resource efficiency in Wireless Networks. 
+From Sensing to Intelligence: My work focuses on building context-aware, resource-efficient systems that operate in the wild. I am particularly interested in the trade-off between algorithmic complexity and energy consumption in the following areas:
+* Multimodal Earables & Wearables: Moving beyond simple activity tracking to complex behavioral monitoring (e.g., cyclist safety) using ear-worn devices.
+* Edge AI & Algorithmic Efficiency: Designing lightweight machine learning frameworks that can run on battery-powered devices without relying on the cloud.
+* Pervasive Sensing & Connectivity: Utilizing diverse signals—from IMUs to wireless CSI—to capture rich context about human activity and well-being.
 
 News and Announcements
 ======================
+- (May 26, 2026): I will give a talk at Mobile and Wearable Health Seminar Series (University of Cambrdige): [Resource-Efficient Health Sensing from (W)Earables to Ecosystems](https://talks.cam.ac.uk/talk/index/242839/)
+- (April 2026) We are organizing the [EMDL workshop](https://emdl-workshop.github.io/emdl26/index.html) co-located with MobiSys: The Role of Mobile Computing in the Generative AI Era, Theme: System Foundations for Generative AI at the Edge
+- (April 7, 2026) I participated in the committee of Lingyu Du's PhD thesis defence at Delft University: "Efficient and Trustworthy Gaze Estimation"
+- (February 3, 2026) I participated in the committee of Lingyu Du's PhD thesis defence at University of Groningen: "Graph Representation Learning in Smart Environments"
 - (November 2025) Damian Gonzalez Gonzalez defended his MSc thesis: "A Lightweight Ensemble Framework for Sensor Fault Detection and Sensor Fusion in Earable Devices"
 - (October 16, 2025) Son Minh Nguyen has successfully defended his PhD dissertation "[Underspecification of transformers in indoor localization and indoor navigation](https://doi.org/10.3990/1.9789036567282)"
 - (October 2025) I will be delivering a keynote speech entitled "From Sensing to System: Data Collection and Edge AI with Resource Constraints" at the [DiversityOne Open Challenge](https://datascientiafoundation.github.io/diversityone-2025/) at [UbiComp/ISWC 2025](https://www.ubicomp.org/ubicomp-iswc-2025/) and as the Pervasive Systems Research Group, we will present [five papers](https://www.utwente.nl/en/eemcs/ps/news/2025/10/610031/pervasive-systems-to-present-five-workshop-papers-at-ubicomp-2025) in the workshops of Ubicomp 2025. 
@@ -26,7 +33,8 @@ News and Announcements
 - (July 1, 2025) The [TRUMAN project](https://www.truman-horizon.eu/) funded by EU Horizon 2020 funding programme kicks off! The PS group is contributing to Work Package 3 (AI Methods).
 - (June 25, 2025) I participated in the committee of Ngakan Nyoman Kutha Krisnawijaya's PhD thesis defence at Wageningen University: "Architectural Design of Data Management and Analytics Platforms for Smart Farming"  
 - (June 2025) Sidhharth Balakrishan successfully defended his [MSc thesis](https://purl.utwente.nl/essays/106412): "Earable-Based Visual Distraction Monitoring in Cyclists"
-- (May 7, 2025) I participated in the committee of Diah Harnoni Apriyanti's PhD thesis defence at the University of Twente: "Towards explainable orchid flower identification"
+
+
 - (April 16, 2025) Together with [Nitinder Mohan](https://www.nitindermohan.com/), we organized the [CompSys](https://www.compsys.science/) track at [IctOpen](https://ictopen.nl/)  
 - On April 2, I'll be speaking at the Science Track of the [National Autonomous Systems Congress](https://www.edih-nn.com/events/national-congress-autonomous-systems-2025-with-keynote-by-aaron-saunders-cto-boston-dynamics/) 2025 in the Netherlands
 - (March 17, 2025) I participated in the committee of Lin Zhou's PhD thesis defence at Hasso Plattner Institute (University of Potsdam): "Personalized Mobile Gait Analysis: Towards Wearable-Based Rehabilitation in Daily Life"
