@@ -54,6 +54,7 @@ TPC Member
 
 Organizing Committee Member
 =========================   
+- EMDL 2026 - 7th International Worskhop on Embedded and Mobile Deep Learning (The Role of Mobile Computing in the Generative AI Era), PC Co-Chair
 - PervasiveHealth 2025, 2026 - 20th International Conference on Pervasive Computing Technologies for Healthcare (Workshops Chair)
 - iWOAR 2025 - 10th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence (Conference Chair)
 - CompSys Research for a Sustainable and Equitable Digital Infrastructure, ICTOpen 2025 (Co-chair)
