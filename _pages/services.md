@@ -9,6 +9,7 @@ redirect_from:
 
 TPC Member
 =========================    
+- ISWC 2026 - 30th annual International Symposium on Wearable Computers
 - SenSys 2026 - ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems
 - SmartWear 2025 - The 3rd Workshop on Smart Wearable Systems and Applications
 - CompSys 2025 - Dutch Computer Systems and Networks Conference 2025
@@ -53,6 +54,7 @@ TPC Member
 
 Organizing Committee Member
 =========================   
+- PervasiveHealth 2025, 2026 - 20th International Conference on Pervasive Computing Technologies for Healthcare (Workshops Chair)
 - iWOAR 2025 - 10th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence (Conference Chair)
 - CompSys Research for a Sustainable and Equitable Digital Infrastructure, ICTOpen 2025 (Co-chair)
 - SmartNets 2023 – International Conference on Smart Applications, Communications and Networking (Keynote chair)
