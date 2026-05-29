@@ -21,6 +21,7 @@ From Sensing to Intelligence: My work focuses on building context-aware, resourc
 
 News and Announcements
 ======================
+- We are organizing two workshops at Ubicomp 2026! Submit your papers to [UbiComp4VRU 2026](https://srv4.comtec.eecs.uni-kassel.de/ubicomp4vru-workshop/) and to the [DiversityOne Open Challenge](https://datascientiafoundation.github.io/diversityone-2026) in June/July!
 - (May 26, 2026): I will give a talk at Mobile and Wearable Health Seminar Series (University of Cambrdige): [Resource-Efficient Health Sensing from (W)Earables to Ecosystems](https://talks.cam.ac.uk/talk/index/242839/)
 - (April 2026) We are organizing the [EMDL workshop](https://emdl-workshop.github.io/emdl26/index.html) co-located with MobiSys: The Role of Mobile Computing in the Generative AI Era, Theme: System Foundations for Generative AI at the Edge
 - (April 7, 2026) I participated in the committee of Lingyu Du's PhD thesis defence at Delft University: "Efficient and Trustworthy Gaze Estimation"
