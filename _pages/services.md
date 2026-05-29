@@ -54,6 +54,9 @@ TPC Member
 
 Organizing Committee Member
 =========================   
+- Percom 2027 The 25th International Conference on Pervasive Computing and Communications (PhD Forum Chair)
+- The 2nd DiversityOne Open Challenge at UbiComp/ISWC 2026 (Co-chair)
+- UbiComp4VRU 2026, 2nd International Workshop on Ubiquitous Computing for Vulnerable Road Users (Co-chair)
 - EMDL 2026 - 7th International Worskhop on Embedded and Mobile Deep Learning (The Role of Mobile Computing in the Generative AI Era), PC Co-Chair
 - PervasiveHealth 2025, 2026 - 20th International Conference on Pervasive Computing Technologies for Healthcare (Workshops Chair)
 - iWOAR 2025 - 10th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence (Conference Chair)
