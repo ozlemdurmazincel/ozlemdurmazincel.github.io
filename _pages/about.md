@@ -10,14 +10,14 @@ redirect_from:
 
 About
 ======
-I am a senior Associate Professor of Computer Science at the [University of Twente](https://www.utwente.nl/en/), where I lead the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group. As a systems builder with over 16 years of experience, I sit at the intersection of mobile computing, Edge AI, and wireless sensing. My research objective is to bridge the gap between physical sensing and intelligent action. I lead a team of ~30 researchers working to orchestrate the full IoT stack, from capturing multimodal data on resource-constrained devices (such as earables) to processing it efficiently at the edge. Previously, I served as a faculty member at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University and [Galatasaray University](https://www.gsu.edu.tr), and held a visiting position at USC’s Autonomous Networks Research Group ([ANRG](https://anrg.usc.edu/www/)).
+I am a senior Associate Professor of Computer Science at the [University of Twente](https://www.utwente.nl/en/), where I lead the [Pervasive Systems](https://www.utwente.nl/en/eemcs/ps/) research group. As a systems researcher with over 16 years of experience, I sit at the intersection of mobile/wearable computing, Edge AI, and Internet of Things. My research objective is to bridge the gap between physical sensing and intelligent action. I lead a team of ~30 researchers working to orchestrate the full IoT stack, from capturing multimodal data on resource-constrained devices (such as earables) to processing it efficiently at the edge. Previously, I served as a faculty member at the [Department of Computer Engineering](https://cmpe.boun.edu.tr/) at Bogazici University and [Galatasaray University](https://www.gsu.edu.tr), and held a visiting position at USC’s Autonomous Networks Research Group ([ANRG](https://anrg.usc.edu/www/)).
 
 Research Focus
 ==================  
 From Sensing to Intelligence: My work focuses on building context-aware, resource-efficient systems that operate in the wild. I am particularly interested in the trade-off between algorithmic complexity and energy consumption in the following areas:
 * Multimodal Earables & Wearables: Moving beyond simple activity tracking to complex behavioral monitoring (e.g., cyclist safety) using ear-worn devices.
 * Edge AI & Algorithmic Efficiency: Designing lightweight machine learning frameworks that can run on battery-powered devices without relying on the cloud.
-* Pervasive Sensing & Connectivity: Utilizing diverse signals—from IMUs to wireless CSI—to capture rich context about human activity and well-being.
+* Pervasive and Multi-modal Sensing: Utilizing diverse signals—from IMUs to wireless CSI—to capture rich context about human activity and well-being.
 
 News and Announcements
 ======================
