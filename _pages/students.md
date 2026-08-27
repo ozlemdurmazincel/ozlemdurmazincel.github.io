@@ -18,13 +18,14 @@ Current Graduate students
 - [Egemen İşgüder](https://people.utwente.nl/egemen.isguder), PhD Thesis, Design and Development of a Carbon Digital Twin for Sustainable Logistics, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2028) 
 - [Qingyu Xian](https://people.utwente.nl/q.xian), PhD Thesis, Image-Based Vibration Monitoring for Structural Health of Bridges, Co-advised with Berend-Jan van der Zwaag, University of Twente (expected graduation 2027)
 - [J. Gwen Qin](https://people.utwente.nl/gwen.qin), PhD Thesis, Collaborative Augmented Reality, Co-advised with Berend-Jan van der Zwaag, University of Twente (expected graduation 2027)
-- [Fatemeh Massah](https://people.utwente.nl/f.massah), EngD Thesis, Enhancing Logistics Resilience through a Carbon Digital Twin, Co-advised with Rob Bemthuis, University of Twente (expected graduation 2026)
 - Akhil Pallamreddy, PhD Thesis, Intelligent Speed Adaptation with E-bikes, co-advised with Yanqiu Huang, University of Twente
 - Deepak Yeleshetty, PhD Thesis, Pedalling Together: Towards Collaborative Intelligence and Secure Data Sharing in Smart Connected Bicycles, co-advised with Yanqiu Huang, University of Twente
   
 
-Completed PhD Theses
+Completed PhD and EngD Theses
 ==================  
+- [Fatemeh Massah](https://people.utwente.nl/f.massah), EngD Thesis, Towards a Digital Twin for Sustainable Construction Site
+Operations, Co-advised with Rob Bemthuis, Martijn Koot and Martijn Mes, University of Twente (2026)
 - [Minh Son Nguyen](https://people.utwente.nl/m.s.nguyen), PhD Thesis, [Underspecification of transformers in indoor localization and indoor navigation](https://doi.org/10.3990/1.9789036567282), Co-advised with Duc Viet Le and Maarten van Steen, University of Twente (October 2025)
 - Sümeyye Ağaç, PhD Thesis, Enhancing Lightweight Models for Efficient Sensor-based Human Activity Recognition, Bogazici University (2024)
 - Berrenur Saylam, PhD Thesis, Behavioral Markers via Wearable Devices, Bogazici University (2024)
@@ -32,6 +33,7 @@ Completed PhD Theses
 
 Completed MSc Theses
 ==================  
+- Nina Schoppe, Using Gradient-Based Analysis for Sensor-Fault Detection in Federated Learning in the Context of Cyber-Physical Systems, University of Twente (August 2026)
 - Damian Gonzalez Gonzalez, MSc thesis: A Lightweight Ensemble Framework for Sensor Fault Detection and Sensor Fusion in Earable Devices, University of Twente (November 2025)
 - Bambang Muharto, MSc thesis: Silent Communication in High Noise Environments Using Earables: A Multi-Modal Sensing Approach University of Twente (August 2025)
 - Sidhharth Balakrishnan, MSc thesis: [Earable-Based Visual Distraction Monitoring in Cyclists](https://purl.utwente.nl/essays/106412), University of Twente (June 2025)
