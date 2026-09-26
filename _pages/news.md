@@ -11,6 +11,7 @@ author_profile: true
 
 2026
 ----
+-  <span class="news-date">Sep 2026</span> I will give a keynote talk at [Alice & Eve Workshop](https://alice-and-eve.github.io/2026/) (Utrecht, October 2026). 
 - <span class="news-date">Sep 2026</span> Doctoral committee member for Jeanne Parmentier, Utrecht University and University of Twente, “EQUAINE – Asking machines to understand equine data and keep learning from it.”
 - <span class="news-date">Sep 2026</span> Doctoral committee member for Kristina Kirsten, HPI University of Potsdam, “Personal Ubiquitous Sensing for Clinical Mental Health Monitoring – Digital Phenotyping Exemplified by Observing Characteristics in Obsessive-Compulsive Disorder”
 - <span class="news-date">Sep 2026</span> I am serving as PhD Forum Co-Chair of [IEEE PerCom 2027](https://percom.org/) (Goa, India, March 2027).
