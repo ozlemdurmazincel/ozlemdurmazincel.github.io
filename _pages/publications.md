@@ -17,7 +17,6 @@ Full list of publications available at  [Google Scholar Page](https://scholar.go
 *  Le, D. V., & Incel, O. D. (2026, June). TempoRisk: Temporal Object Memory for Real-Time Collision Anticipation on Mobile Devices. In Proceedings of the 24th Annual International Conference on Mobile Systems, Applications and Services Workshops (pp. 37-43).
 * Brinke, J. K., Chiumento, A., & Incel, Ö. D. (2026, March). Consensus-Based Distributed Channel State Information for Human Activity Recognition. In 2026 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 1-6). IEEE.
 * Muharto, B., Işgüder, E., & Incel, Ö. D. (2026, March). Hierarchical Silent Command Recognition on Earables: A Multistage Learning Approach. In 2026 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 1-6). IEEE.
-<img width="470" height="175" alt="image" src="https://github.com/user-attachments/assets/34c096d1-6978-4699-b308-e14427a3c8dc" />
 
 
 2025 
