@@ -35,8 +35,16 @@ Current projects are listed under [Research](/portfolio/). Team members are on t
 
 Our Work in Video
 -----------------
-- [Pervasive Systems: vision and research](https://youtu.be/7FScCtSVNsU): an introduction to the group's mission and research activities.
-- [Pervasive Systems in e-Health](https://youtu.be/lNpGqokc02s): our research on sensing for health and well-being.
+<div style="display:flex; gap:1.2em; flex-wrap:wrap; margin-top:0.5em;">
+  <a href="https://youtu.be/7FScCtSVNsU" style="width:120px; border:none; text-decoration:none;">
+    <img src="https://img.youtube.com/vi/7FScCtSVNsU/mqdefault.jpg" alt="Pervasive Systems: vision and research" style="width:120px; border-radius:2px;">
+    <br><small>Pervasive Systems: vision and research</small>
+  </a>
+  <a href="https://youtu.be/lNpGqokc02s" style="width:120px; border:none; text-decoration:none;">
+    <img src="https://img.youtube.com/vi/lNpGqokc02s/mqdefault.jpg" alt="Pervasive Systems in e-Health" style="width:120px; border-radius:2px;">
+    <br><small>Pervasive Systems in e-Health</small>
+  </a>
+</div>
 
 Recent News
 -----------
