@@ -1,19 +1,22 @@
 # main links links
 main:
+  - title: "News"
+    url: /news/
+
+  - title: "Research"
+    url: /portfolio/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Team/Alumni"
-    url: /students/    
+  - title: "Team"
+    url: /students/
+
+  - title: "Service"
+    url: /services/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Projects"
-    url: /portfolio/
-          
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Services"
-    url: /services/
