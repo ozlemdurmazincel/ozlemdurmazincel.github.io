@@ -6,7 +6,11 @@ author_profile: true
 ---
 <a href="https://people.utwente.nl/ozlem.durmaz?tab=education">Current List of Courses</a>
 {% include base_path %}
+At the University of Twente, I teach in the BSc Technical Computer Science programme, including Module 4 "Data & Information", Module 5 "Operating Systems" and MSc TCS, including "Pervasive Computing", and I supervise MSc theses. My current courses are listed on my University of Twente profile.
 
+Courses I taught at Boğaziçi University and Galatasaray University:
+
+{% for post in site.teaching reversed %} {% include archive-single.html %} {% endfor %}
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
