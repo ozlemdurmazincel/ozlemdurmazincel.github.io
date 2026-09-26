@@ -17,7 +17,8 @@ Advisory/Scientific Boards and Evaluation Panels
 - Member, [Lorentz Center](https://www.lorentzcenter.nl/) Informatics Scientific Advisory Board, since 2024
 - Member, Scientific Board of the Advanced Manufacturing Center, University of Twente
 - Member, Advisory Board of the EEMCS Data Science & AI Lab, University of Twente
-- Reviewer, IEEE Computer Society Türkiye Master's Thesis Awards, 2023
+- Member/UT Representative, Steering Board, ARISE (Dutch national research infrastructure for biodiversity monitoring)
+
 
 Conference and Workshop Organization
 =========================   
