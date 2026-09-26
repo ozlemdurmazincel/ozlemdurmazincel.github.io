@@ -1,14 +1,26 @@
 ---
 permalink: /portfolio/
-title: ""
-excerpt: "Projects"
+title: "Research"
+excerpt: "Research projects"
 author_profile: true
 
 ---
 
-Coordinated Projects
-=========================    
-- **On-device and Distributed Machine Learning with Resource-Constrained Mobile and Wearable Devices for Sensing Applications**, (principal investigator (PI), funded by Bogazici University Research Fund (2022-ongoing): 
+The Pervasive Systems group works across the sensing stack: from multimodal data capture on resource-constrained wearable and IoT devices, through resilient networking, to distributed and on-device intelligence. The projects below are those I lead or in which I have an active role. For the group's full portfolio, see the [Pervasive Systems website](https://www.utwente.nl/en/eemcs/ps/research/projects-active/).
+
+Current Projects
+----------------
+- **[TRUMAN](https://truman-horizon.eu/): Trustworthy Human-centric Artificial Intelligence**, Horizon Europe (2025–ongoing). The Pervasive Systems group contributes to Work Package 3 (AI Methods).
+- Responsible Immersive Support for Firefighter Retreat under Unreliable Spatial and Communication Information,  funding by Nationaal Regieorgaan Praktijkgericht Onderzoek SIA (NWO) through the NGF-CIIIC Start program, 2026-2027
+- Youngsters, Supporting Young Farm Animals, NWO, 2023-2028 
+
+<!-- TODO (Özlem): add the accepted CIIIC project here. Format:
+- **ACRONYM: Full title**, funded by CIIIC (2026–). Role of PS in one or two sentences.
+-->
+
+Past Projects as Principal Investigator
+---------------------------------------
+- **On-device and Distributed Machine Learning with Resource-Constrained Mobile and Wearable Devices for Sensing Applications**, PI, funded by Boğaziçi University Research Fund (2022–2024):
 Although running deep learning algorithms is challenging due to resource constraints on mobile and wearable edge devices, they improve performance compared to lightweight or shallow architectures. This project aims to explore efficient on-device deep learning and distributed learning for mobile and wearable devices, particularly from the sensor data analytics perspective. Check our review paper about this project: [On-Device Deep Learning for Mobile and Wearable Sensing Applications: A Review](https://doi.org/10.1109/JSEN.2023.3240854)
 
 - **DAKOTA: Behavioral Pattern Based Authentication**, PI, funded by the Scientific and Research Council of Turkey (Tubitak), 1505 Program (Industry-University Collaboration programme) (2018-2020):
@@ -28,11 +40,11 @@ The project's objective was to semantically classify places visited by smartphon
 One of the objectives of this project was to design and develop an activity based crowdsourced sensing platform where the activities of the individuals related to movement, are recognized with the sensors on the phones and the findings are transmitted to the backend servers where the behaviors of the crowds are analyzed. the second objective of the project was to create a large-scale dataset which will be shared with other researchers working in the domain and hence constitute as a benchmark platform. Check the summary here: [Arservice: a smartphone based crowd-sourced data collection and activity recognition framework](https://doi.org/10.1016/j.procs.2018.04.142)
 
 
-Participated Projects
-=========================    
+Past Projects as Researcher
+---------------------------    
 - **SARAS: Sensor-Based Augmented Reality Application**, funded by the Turkish Ministry of Science, Industry and Technology under the SAN-TEZ program, 2014-2015 (as a researcher).
 - **Green Dynamic Base Station Planning with Power Adaptation for Wireless Cellular Networks**, funded by Turk Telekom, 2012-2013  (as a researcher).
-- **Fall Detection Using Wearable Acceloremeters**, funded by Turk Telekom, 2011-2012  (as a researcher).
+- **Fall Detection Using Wearable Accelerometers**, funded by Turk Telekom, 2011-2012  (as a researcher).
 - **Intelligent Home Gateway**, funded by Tubitak Teydeb  and co-funded by Ericsson Turkey, 2011-2012 (as a researcher)
 - **COST Action IC0906 - WiNeMO - Wireless Networking for Moving Objects**, funded by COST- European Cooperation in Science and Technology, 2011-2012 (as a researcher).
 - **FireSense - Fire and Smoke Detection through a WSN and Estimation of Fire Propagation for the Protection of Cultural Heritage Sites**, funded by European Commission FP7, 2009-2012 (as a researcher).
