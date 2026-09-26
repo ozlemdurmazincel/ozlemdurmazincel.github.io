@@ -1,16 +1,17 @@
 ---
 layout: archive
 permalink: /students/
-title: "Team/Alumni"
+title: "Team"
 author_profile: true
 
 ---
-I lead a multidisciplinary team of more than 30 members, comprising scientific staff, postdocs, PhD/EngD students, and support personnel. Our research focuses on Omni-Modal Perception, Resilient Networking, and Distributed Intelligence.
-[Meet the full Pervasive Systems Team here](https://www.utwente.nl/en/eemcs/ps/people/)
+As Chair of the Pervasive Systems Research Group, I lead a multidisciplinary team of about 30 members: scientific staff, postdocs, PhD and EngD candidates, and support staff. The group's research is organised around three themes: omni-modal perception, resilient networking and distributed intelligence. [Meet the full Pervasive Systems team](https://www.utwente.nl/en/eemcs/ps/people/).
+
+This page lists the doctoral candidates and students I supervise personally.
 
 
-Current Graduate students
-=========================    
+Current PhD Candidates
+---------------------    
 - [Minh Thanh Nguyen](https://people.utwente.nl/m.t.nguyen), PhD Thesis, Efficient Uncertainty Quantification (UQ) for Video-based Invisible Motion Tracking, Co-advised with Duc Le Viet (expected graduation 2029)
 - [Hai Long Nguyen](https://people.utwente.nl/hailong.nguyen), PhD Thesis, Neuro-symbolic AI for microfabricated fluidic sensors, Co-advised with Duc Le Viet (expected graduation 2029)
 - [Adarsh Nanjaiya Latha](https://people.utwente.nl/a.nanjaiyalatha), PhD Thesis, Multi-modal Information in Drone Swarms, Co-advised with Alex Chiumento (expected graduation 2029)
@@ -22,17 +23,16 @@ Current Graduate students
 - Deepak Yeleshetty, PhD Thesis, Pedalling Together: Towards Collaborative Intelligence and Secure Data Sharing in Smart Connected Bicycles, co-advised with Yanqiu Huang, University of Twente
   
 
-Completed PhD and EngD Theses
-==================  
-- [Fatemeh Massah](https://people.utwente.nl/f.massah), EngD Thesis, Towards a Digital Twin for Sustainable Construction Site
-Operations, Co-advised with Rob Bemthuis, Martijn Koot and Martijn Mes, University of Twente (2026)
+PhD and EngD Graduates
+----------------------  
+- [Fatemeh Massah](https://people.utwente.nl/f.massah), EngD Thesis, Towards a Digital Twin for Sustainable Construction Site Operations, Co-advised with Rob Bemthuis, Martijn Koot and Martijn Mes, University of Twente (2026)
 - [Minh Son Nguyen](https://people.utwente.nl/m.s.nguyen), PhD Thesis, [Underspecification of transformers in indoor localization and indoor navigation](https://doi.org/10.3990/1.9789036567282), Co-advised with Duc Viet Le and Maarten van Steen, University of Twente (October 2025)
 - Sümeyye Ağaç, PhD Thesis, Enhancing Lightweight Models for Efficient Sensor-based Human Activity Recognition, Bogazici University (2024)
 - Berrenur Saylam, PhD Thesis, Behavioral Markers via Wearable Devices, Bogazici University (2024)
 - Aykut Yiğitel, PhD Thesis, Green Wireless Communications, Co-advised with Prof.Dr. C. Ersoy, Bogazici University (2016)
 
 Completed MSc Theses
-==================  
+--------------------  
 - Nina Schoppe, Using Gradient-Based Analysis for Sensor-Fault Detection in Federated Learning in the Context of Cyber-Physical Systems, University of Twente (August 2026)
 - Damian Gonzalez Gonzalez, MSc thesis: A Lightweight Ensemble Framework for Sensor Fault Detection and Sensor Fusion in Earable Devices, University of Twente (November 2025)
 - Bambang Muharto, MSc thesis: Silent Communication in High Noise Environments Using Earables: A Multi-Modal Sensing Approach University of Twente (August 2025)
