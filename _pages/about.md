@@ -47,6 +47,7 @@ Recent News
 -->
 - <span class="news-date">Sep 2026</span> I will give a keynote talk at [Alice & Eve Workshop](https://alice-and-eve.github.io/2026/) (Utrecht, October 2026). 
 - <span class="news-date">Sep 2026</span> I am serving as PhD Forum Co-Chair of [IEEE PerCom 2027](https://percom.org/) (Goa, India, March 2027). The call for PhD Forum submissions will open soon.
+-  <span class="news-date">Sep 2026</span> A new specialization track, [Sustainable Computing (SusCo)](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/sustainable-computing/), is introduced by CAES, DACS and PS groups (EDGE Research Centre) within the University of Twente’s Computer Science Master’s programme in the 2026–2027 academic year 
 - <span class="news-date">Aug 2026</span> Nina Schoppe defended her MSc thesis: "Using Gradient-Based Analysis for Sensor-Fault Detection in Federated Learning in the Context of Cyber-Physical Systems".
 - <span class="news-date">2026</span> Fatemeh Massah completed her EngD: "Towards a Digital Twin for Sustainable Construction Site Operations" (with Rob Bemthuis, Martijn Koot and Martijn Mes).
 - <span class="news-date">June 2026</span> our project, "Responsible Immersive Support for Firefighter Retreat under Unreliable Spatial and Communication Information," has been awarded funding by Nationaal Regieorgaan Praktijkgericht Onderzoek SIA (NWO) through the [NGF-CIIIC Start program!](https://www.ciiic.nl/) 
