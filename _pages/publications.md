@@ -9,6 +9,17 @@ author_profile: true
 {% include base_path %}
 Full list of publications available at  [Google Scholar Page](https://scholar.google.com.tr/citations?user=r9h9Zp4AAAAJ) 
 
+2026 
+======
+* Liebeton, J., İşgüder, E., Durmaz-Incel, Ö., & Brinke, J. K. (2026, October). Where WiFi Sensing Fails: A Reproducibility Study of CSI-IMU Substitution for Human Activity Recognition. In 1st Workshop on Reproducible Methods for Wearable Sensing and Ubiquitous Computing held in conjunction with the UbiComp/ISWC 2026.
+* Gonzalez, D. G., Işgüder, E., & Incel, Ö. D. (2026, July). A Lightweight Ensemble for Sensor Fault Injection, Detection and Fusion in Earables. In 2026 International Conference on Smart Applications, Communications and Networking (SmartNets) (pp. 1-6). IEEE.
+* Le, V. D., & Incel, O. D. (2026, June). Edge-LLM-Bench: Characterising LLM Inference on Raspberry Pi 5 with Hailo-10H NPU Acceleration. In Proceedings of the 24th Annual International Conference on Mobile Systems, Applications and Services Workshops (pp. 44-50).
+*  Le, D. V., & Incel, O. D. (2026, June). TempoRisk: Temporal Object Memory for Real-Time Collision Anticipation on Mobile Devices. In Proceedings of the 24th Annual International Conference on Mobile Systems, Applications and Services Workshops (pp. 37-43).
+* Brinke, J. K., Chiumento, A., & Incel, Ö. D. (2026, March). Consensus-Based Distributed Channel State Information for Human Activity Recognition. In 2026 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 1-6). IEEE.
+* Muharto, B., Işgüder, E., & Incel, Ö. D. (2026, March). Hierarchical Silent Command Recognition on Earables: A Multistage Learning Approach. In 2026 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 1-6). IEEE.
+<img width="470" height="175" alt="image" src="https://github.com/user-attachments/assets/34c096d1-6978-4699-b308-e14427a3c8dc" />
+
+
 2025 
 ======
 * Kupers, X., Brinke, J. K., Bemthuis, R., & Incel, O. D. (2025, August). Towards Edge-Based Idle State Detection in Construction Machinery Using Surveillance Cameras. In Intelligent Systems Conference (pp. 402-418). Cham: Springer Nature Switzerland.
