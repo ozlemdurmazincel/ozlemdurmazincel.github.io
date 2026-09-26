@@ -7,6 +7,53 @@ redirect_from:
   - /services
 ---
 
+Editorial Boards
+=========================    
+- [IEEE Internet Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4236)
+- [IMWUT-Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut)
+
+Advisory/Scientific Boards and Evaluation Panels
+=========================   
+- Member, [Lorentz Center](https://www.lorentzcenter.nl/) Informatics Scientific Advisory Board, since 2024
+- Member, Scientific Board of the Advanced Manufacturing Center, University of Twente
+- Member, Advisory Board of the EEMCS Data Science & AI Lab, University of Twente
+- Reviewer, IEEE Computer Society Türkiye Master's Thesis Awards, 2023
+
+Conference and Workshop Organization
+=========================   
+- Percom 2027 The 25th International Conference on Pervasive Computing and Communications (PhD Forum Chair)
+- The 2nd DiversityOne Open Challenge at UbiComp/ISWC 2026 (Co-chair)
+- UbiComp4VRU 2026, 2nd International Workshop on Ubiquitous Computing for Vulnerable Road Users (Co-chair)
+- EMDL 2026 - 7th International Worskhop on Embedded and Mobile Deep Learning (The Role of Mobile Computing in the Generative AI Era), PC Co-Chair
+- PervasiveHealth 2025, 2026 - 20th International Conference on Pervasive Computing Technologies for Healthcare (Workshops Chair)
+- iWOAR 2025 - 10th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence (Conference Chair)
+- CompSys Research for a Sustainable and Equitable Digital Infrastructure, ICTOpen 2025 (Co-chair)
+- SmartNets 2023 – International Conference on Smart Applications, Communications and Networking (Keynote chair)
+- PervasiveHealth 2016 - 10th International Conference on Pervasive Computing Technologies for Healthcare (Publications Chair),
+- Special session on Mobile Computing as part of the 23rd Signal Processing and Communication Applications Symposium, 2016 (Co-chair)
+- Special session on Mobile Computing (Mobil Cihazlarla Hesaplama) as part of the 22nd Signal Processing and Communication Applications Symposium, 2015 (Co-chair)
+- PervasiveHealth 2015 - 9th International Conference on Pervasive Computing Technologies for Healthcare (Short 	Papers Chair),
+- Special session on Mobile Computing (Mobil Donanımlarla Hesaplama) as part of the 22nd Signal Processing and Communication Applications Symposium, 2014 (Co-chair)
+- MindCare 2014 - 4th International Symposium on Pervasive Computing Paradigms for Mental Health (Publications	Chair)
+- PervasiveHealth 2013 - 7th International Conference on Pervasive Computing Technologies for Healthcare (Publications Chair)
+- ISSNIP 2010 – Symposium on Theoretical and Practical Aspects of Large-scale Wireless Sensor Networks, (Co-chair)
+- ISSNIP 2009 – Symposium on Sensor Networks (Co-chair)
+
+Doctoral Committees
+=========================   
+- Jeanne Parmentier, Utrecht/Twente University, 2026
+- Kristina Kirsten, HPI, University of Potsdam, 2026
+- Thomas Hackett, University of Twente, 2026
+- Khalil Ben Fredj, University of Twente, 2026
+- Lingyu Du, Delft University of Technology, 2026
+- Andres Tello, University of Groningen, 2026
+- Ngakan Nyoman Kutha Krisnawijaya, Wageningen University, 2025
+- Lin Zhou, Hasso Plattner Institute, University of Potsdam, 2025
+- Orhan Konak, Hasso Plattner Institute, University of Potsdam, 2024
+- Seyed Keyarash Ghiasi, TU Delft, 2024
+- Nikita Sharma, University of Twente, 2024 (opponent)
+- Zhitao He, Uppsala University, 2023 (grading committee)
+
 TPC Member
 =========================    
 - ISWC 2026 - 30th annual International Symposium on Wearable Computers
@@ -51,31 +98,3 @@ TPC Member
 - EWSN 2010- European Conference on Wireless Sensor Networks
 - ISSNIP 2010 – Symposium on Sensor Networks
 - ISSNIP 2009 – Symposium on Theoretical and Practical Aspects of Large-scale Wireless Sensor Networks 
-
-Organizing Committee Member
-=========================   
-- Percom 2027 The 25th International Conference on Pervasive Computing and Communications (PhD Forum Chair)
-- The 2nd DiversityOne Open Challenge at UbiComp/ISWC 2026 (Co-chair)
-- UbiComp4VRU 2026, 2nd International Workshop on Ubiquitous Computing for Vulnerable Road Users (Co-chair)
-- EMDL 2026 - 7th International Worskhop on Embedded and Mobile Deep Learning (The Role of Mobile Computing in the Generative AI Era), PC Co-Chair
-- PervasiveHealth 2025, 2026 - 20th International Conference on Pervasive Computing Technologies for Healthcare (Workshops Chair)
-- iWOAR 2025 - 10th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence (Conference Chair)
-- CompSys Research for a Sustainable and Equitable Digital Infrastructure, ICTOpen 2025 (Co-chair)
-- SmartNets 2023 – International Conference on Smart Applications, Communications and Networking (Keynote chair)
-- PervasiveHealth 2016 - 10th International Conference on Pervasive Computing Technologies for Healthcare (Publications Chair),
-- Special session on Mobile Computing as part of the 23rd Signal Processing and Communication Applications Symposium, 2016 (Co-chair)
-- Special session on Mobile Computing (Mobil Cihazlarla Hesaplama) as part of the 22nd Signal Processing and Communication Applications Symposium, 2015 (Co-chair)
-- PervasiveHealth 2015 - 9th International Conference on Pervasive Computing Technologies for Healthcare (Short 	Papers Chair),
-- Special session on Mobile Computing (Mobil Donanımlarla Hesaplama) as part of the 22nd Signal Processing and Communication Applications Symposium, 2014 (Co-chair)
-- MindCare 2014 - 4th International Symposium on Pervasive Computing Paradigms for Mental Health (Publications	Chair)
-- PervasiveHealth 2013 - 7th International Conference on Pervasive Computing Technologies for Healthcare (Publications Chair)
-- ISSNIP 2010 – Symposium on Theoretical and Practical Aspects of Large-scale Wireless Sensor Networks, (Co-chair)
-- ISSNIP 2009 – Symposium on Sensor Networks (Co-chair)
-
-Associate Editor
-=========================    
-- [IEEE Internet Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4236)
-- [IMWUT-Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut)
-
-
-
