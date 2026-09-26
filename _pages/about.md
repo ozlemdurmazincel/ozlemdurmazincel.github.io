@@ -17,7 +17,7 @@ My research sits at the intersection of mobile and wearable computing, Edge AI a
 Highlights
 ----------
 - **Editorial:** Associate Editor, [ACM IMWUT](https://dl.acm.org/journal/imwut) and [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic)
-- **Advisory/Scientific Boards:** Member of [Lorentz Center](https://www.lorentzcenter.nl/) Informatics Scientific Advisory Board; UT Advanced Manufacturing Center Scientific Board; EEMCS Data Science & AI Lab, Advisory Board; 
+- **Advisory/Scientific Boards:** Member of [Lorentz Center](https://www.lorentzcenter.nl/) Informatics Scientific Advisory Board; UT Advanced Manufacturing Center Scientific Board; EEMCS Data Science & AI Lab, Advisory Board; UT Representative, ARISE (Dutch national research infrastructure for biodiversity monitoring), Steering Board.
 - **Conferences:** PhD Forum Co-Chair, IEEE PerCom 2027; Conference Chair, iWOAR 2025
 </div>
 
@@ -41,7 +41,7 @@ Recent News
 <!-- TODO (Özlem): add the CIIIC project and the four new doctoral committees here, newest first. Format:
 - <span class="news-date">Mon YYYY</span> Text with [links](https://...).
 -->
-- <span class="news-date">Sep 2026</span> I will give a keynote talk at [Alice & Eve Workshop](https://percom.org/) (Utrecht, Ocotober 2026). 
+- <span class="news-date">Sep 2026</span> I will give a keynote talk at [Alice & Eve Workshop](https://alice-and-eve.github.io/2026/) (Utrecht, October 2026). 
 - <span class="news-date">Sep 2026</span> I am serving as PhD Forum Co-Chair of [IEEE PerCom 2027](https://percom.org/) (Goa, India, March 2027). The call for PhD Forum submissions will open soon.
 - <span class="news-date">Aug 2026</span> Nina Schoppe defended her MSc thesis: "Using Gradient-Based Analysis for Sensor-Fault Detection in Federated Learning in the Context of Cyber-Physical Systems".
 - <span class="news-date">2026</span> Fatemeh Massah completed her EngD: "Towards a Digital Twin for Sustainable Construction Site Operations" (with Rob Bemthuis, Martijn Koot and Martijn Mes).
