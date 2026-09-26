@@ -19,7 +19,7 @@ Highlights
 - **Editorial:** Associate Editor, [ACM IMWUT](https://dl.acm.org/journal/imwut) and [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic)
 - **Advisory/Scientific Boards:** Member of [Lorentz Center](https://www.lorentzcenter.nl/) Informatics Scientific Advisory Board; UT Advanced Manufacturing Center Scientific Board; EEMCS Data Science & AI Lab, Advisory Board; UT Representative, ARISE (Dutch national research infrastructure for biodiversity monitoring), Steering Board.
 - **Conferences:** PhD Forum Co-Chair, IEEE PerCom 2027; Conference Chair, iWOAR 2025
-- - **Keynotes:** UbiComp/ISWC 2025 (DiversityOne), iWOAR 2024 ([all talks](/talks/))
+- **Keynotes/Talks:** UbiComp/ISWC 2025 (DiversityOne), iWOAR 2024 ([all talks](/talks/))
 </div>
 
 Research Focus
