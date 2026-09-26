@@ -19,6 +19,7 @@ Highlights
 - **Editorial:** Associate Editor, [ACM IMWUT](https://dl.acm.org/journal/imwut) and [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic)
 - **Advisory/Scientific Boards:** Member of [Lorentz Center](https://www.lorentzcenter.nl/) Informatics Scientific Advisory Board; UT Advanced Manufacturing Center Scientific Board; EEMCS Data Science & AI Lab, Advisory Board; UT Representative, ARISE (Dutch national research infrastructure for biodiversity monitoring), Steering Board.
 - **Conferences:** PhD Forum Co-Chair, IEEE PerCom 2027; Conference Chair, iWOAR 2025
+- - **Keynotes:** UbiComp/ISWC 2025 (DiversityOne), iWOAR 2024 ([all talks](/talks/))
 </div>
 
 Research Focus
@@ -28,6 +29,9 @@ We build context-aware, resource-efficient sensing systems that work in the wild
 - **Multimodal earables and wearables.** Going beyond activity tracking to complex behavioural monitoring with ear-worn and body-worn devices, for example in cyclist safety.
 - **Edge AI and algorithmic efficiency.** Lightweight, on-device and distributed machine learning for battery-powered devices, without reliance on the cloud.
 - **Pervasive and multimodal sensing.** Combining diverse signals, from IMUs to wireless channel state information, to capture rich context about human activity, well-being and the built environment.
+  
+Current projects are listed under [Research](/portfolio/). Team members are on the [Team](/students/) page.
+
 
 Our Work in Video
 -----------------
