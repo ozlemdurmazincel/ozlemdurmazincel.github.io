@@ -33,6 +33,7 @@ PhD and EngD Graduates
 
 Completed MSc Theses
 --------------------  
+- Arda Güney, Multimodal Wearable Sensing of Group Activity: Understanding, Recognizing and Predicting Collaborative Group Activities from Wearable Sensor Data, University of Twente (August 2026)
 - Nina Schoppe, Using Gradient-Based Analysis for Sensor-Fault Detection in Federated Learning in the Context of Cyber-Physical Systems, University of Twente (August 2026)
 - Damian Gonzalez Gonzalez, MSc thesis: A Lightweight Ensemble Framework for Sensor Fault Detection and Sensor Fusion in Earable Devices, University of Twente (November 2025)
 - Bambang Muharto, MSc thesis: Silent Communication in High Noise Environments Using Earables: A Multi-Modal Sensing Approach University of Twente (August 2025)
