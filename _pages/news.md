@@ -11,13 +11,14 @@ author_profile: true
 
 2026
 ----
--  <span class="news-date">Sep 2026</span> I will give a keynote talk at [Alice & Eve Workshop](https://alice-and-eve.github.io/2026/) (Utrecht, October 2026). 
+-  <span class="news-date">Sep 2026</span> I will give a keynote talk at [Alice & Eve Workshop](https://alice-and-eve.github.io/2026/) (Utrecht, October 2026).
+-  <span class="news-date">Sep 2026</span> Sakshi Chonkar presented her MSc Thesis, "Silent Speech Recognition using Earables: Technology and User Evaluation", Co-advised with Dennis Reidsma
 - <span class="news-date">Sep 2026</span> Doctoral committee member for Jeanne Parmentier, Utrecht University and University of Twente, “EQUAINE – Asking machines to understand equine data and keep learning from it.”
 - <span class="news-date">Sep 2026</span> Doctoral committee member for Kristina Kirsten, HPI University of Potsdam, “Personal Ubiquitous Sensing for Clinical Mental Health Monitoring – Digital Phenotyping Exemplified by Observing Characteristics in Obsessive-Compulsive Disorder”
 - <span class="news-date">Sep 2026</span> I am serving as PhD Forum Co-Chair of [IEEE PerCom 2027](https://percom.org/) (Goa, India, March 2027).
 -  <span class="news-date">Sep 2026</span> A new specialization track, [Sustainable Computing (SusCo)](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/sustainable-computing/), is introduced by CAES, DACS and PS groups (EDGE Research Centre) within the University of Twente’s Computer Science Master’s programme in the 2026–2027 academic year
-- <span class="news-date">Aug 2026</span> Arda Guney presented his MSc thesis: "Multimodal Wearable Sensing of Group Activity: Understanding, Recognizing and Predicting Collaborative Group Activities from Wearable Sensor Data"
-- <span class="news-date">Aug 2026</span> Nina Schoppe defended her MSc thesis: "Using Gradient-Based Analysis for Sensor-Fault Detection in Federated Learning in the Context of Cyber-Physical Systems".
+- <span class="news-date">Aug 2026</span> Arda Guney presented his MSc thesis: "Multimodal Wearable Sensing of Group Activity: Understanding, Recognizing and Predicting Collaborative Group Activities from Wearable Sensor Data" (co-advised with Gwenn Englebienne)
+- <span class="news-date">Aug 2026</span> Nina Schoppe defended her MSc thesis: "Using Gradient-Based Analysis for Sensor-Fault Detection in Federated Learning in the Context of Cyber-Physical Systems" (co-advised with Berend Jan van der Zwaag)
 - <span class="news-date">Aug 2026</span> Fatemeh Massah completed her EngD Thesis: "Towards a Digital Twin for Sustainable Construction Site Operations".
 - <span class="news-date">Aug 2026</span> Doctoral committee member for Thomas Hackett, University of Twente, "Microanemometry: Mo(o)re or Less"
 - <span class="news-date">2026</span> We co-organise two workshops at UbiComp/ISWC 2026: [UbiComp4VRU 2026](https://srv4.comtec.eecs.uni-kassel.de/ubicomp4vru-workshop/) and the [2nd DiversityOne Open Challenge](https://datascientiafoundation.github.io/diversityone-2026).
